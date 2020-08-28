@@ -1,0 +1,76 @@
+C:\Users\DRANIX\source\repos\form menu\form menu\obj\Debug\form_menu.Form1.resources
+C:\Users\DRANIX\source\repos\form menu\form menu\obj\Debug\form_menu.Properties.Resources.resources
+C:\Users\DRANIX\source\repos\form menu\form menu\obj\Debug\form menu.csproj.GenerateResource.cache
+C:\Users\DRANIX\source\repos\form menu\form menu\obj\Debug\form menu.csproj.CoreCompileInputs.cache
+C:\Users\DRANIX\source\repos\form menu\form menu\bin\Debug\form menu.exe.config
+C:\Users\DRANIX\source\repos\form menu\form menu\bin\Debug\form menu.exe
+C:\Users\DRANIX\source\repos\form menu\form menu\bin\Debug\form menu.pdb
+C:\Users\DRANIX\source\repos\form menu\form menu\obj\Debug\form menu.exe
+C:\Users\DRANIX\source\repos\form menu\form menu\obj\Debug\form menu.pdb
+C:\Users\DRANIX\source\repos\form menu\form menu\obj\Debug\form menu.csprojAssemblyReference.cache
+D:\nam\form menu\form menu\bin\Debug\form menu.exe.config
+D:\nam\form menu\form menu\bin\Debug\form menu.exe
+D:\nam\form menu\form menu\bin\Debug\form menu.pdb
+D:\nam\form menu\form menu\obj\Debug\form menu.csprojAssemblyReference.cache
+D:\nam\form menu\form menu\obj\Debug\form_menu.Form1.resources
+D:\nam\form menu\form menu\obj\Debug\form_menu.Properties.Resources.resources
+D:\nam\form menu\form menu\obj\Debug\form menu.csproj.GenerateResource.cache
+D:\nam\form menu\form menu\obj\Debug\form menu.csproj.CoreCompileInputs.cache
+D:\nam\form menu\form menu\obj\Debug\form menu.exe
+D:\nam\form menu\form menu\obj\Debug\form menu.pdb
+F:\New folder\form menu\form menu\bin\Debug\form menu.exe.config
+F:\New folder\form menu\form menu\obj\Debug\form menu.exe
+F:\New folder\form menu\form menu\obj\Debug\form menu.pdb
+F:\New folder\form menu\form menu\bin\Debug\form menu.exe
+F:\New folder\form menu\form menu\bin\Debug\form menu.pdb
+F:\New folder\form menu\form menu\obj\Debug\form menu.csprojResolveAssemblyReference.cache
+F:\New folder\form menu\form menu\obj\Debug\form_menu.Form1.resources
+F:\New folder\form menu\form menu\obj\Debug\form_menu.Properties.Resources.resources
+F:\New folder\form menu\form menu\obj\Debug\form_menu.Vemachdien.resources
+F:\New folder\form menu\form menu\obj\Debug\form menu.csproj.GenerateResource.Cache
+F:\New folder\form menu\form menu\obj\Debug\form_menu.Lience.resources
+E:\Job Project\Phan mem dien\form menu\form menu\bin\Debug\form menu.exe.config
+E:\Job Project\Phan mem dien\form menu\form menu\obj\Debug\form menu.exe
+E:\Job Project\Phan mem dien\form menu\form menu\obj\Debug\form menu.pdb
+E:\Job Project\Phan mem dien\form menu\form menu\bin\Debug\form menu.exe
+E:\Job Project\Phan mem dien\form menu\form menu\bin\Debug\form menu.pdb
+E:\Job Project\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Form1.resources
+E:\Job Project\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Lience.resources
+E:\Job Project\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Properties.Resources.resources
+E:\Job Project\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Vemachdien.resources
+E:\Job Project\Phan mem dien\form menu\form menu\obj\Debug\form menu.csproj.GenerateResource.Cache
+D:\Work\Project File\Phan mem dien\form menu\form menu\bin\Debug\form menu.exe.config
+D:\Work\Project File\Phan mem dien\form menu\form menu\bin\Debug\form menu.exe
+D:\Work\Project File\Phan mem dien\form menu\form menu\bin\Debug\form menu.pdb
+D:\Work\Project File\Phan mem dien\form menu\form menu\obj\Debug\form menu.csprojAssemblyReference.cache
+D:\Work\Project File\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Form1.resources
+D:\Work\Project File\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Lience.resources
+D:\Work\Project File\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Properties.Resources.resources
+D:\Work\Project File\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Vemachdien.resources
+D:\Work\Project File\Phan mem dien\form menu\form menu\obj\Debug\form menu.csproj.GenerateResource.cache
+D:\Work\Project File\Phan mem dien\form menu\form menu\obj\Debug\form menu.csproj.CoreCompileInputs.cache
+D:\Work\Project File\Phan mem dien\form menu\form menu\obj\Debug\form menu.exe
+D:\Work\Project File\Phan mem dien\form menu\form menu\obj\Debug\form menu.pdb
+H:\Phan mem dien\form menu\form menu\bin\Debug\form menu.exe.config
+H:\Phan mem dien\form menu\form menu\obj\Debug\form menu.exe
+H:\Phan mem dien\form menu\form menu\obj\Debug\form menu.pdb
+H:\Phan mem dien\form menu\form menu\bin\Debug\form menu.exe
+H:\Phan mem dien\form menu\form menu\bin\Debug\form menu.pdb
+H:\Phan mem dien\form menu\form menu\obj\Debug\form menu.csprojResolveAssemblyReference.cache
+H:\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Form1.resources
+H:\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Lience.resources
+H:\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Properties.Resources.resources
+H:\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Vemachdien.resources
+H:\Phan mem dien\form menu\form menu\obj\Debug\form menu.csproj.GenerateResource.Cache
+E:\Phan mem dien\form menu\form menu\bin\Debug\form menu.exe.config
+E:\Phan mem dien\form menu\form menu\bin\Debug\form menu.exe
+E:\Phan mem dien\form menu\form menu\bin\Debug\form menu.pdb
+E:\Phan mem dien\form menu\form menu\obj\Debug\form menu.csprojAssemblyReference.cache
+E:\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Form1.resources
+E:\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Lience.resources
+E:\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Properties.Resources.resources
+E:\Phan mem dien\form menu\form menu\obj\Debug\form_menu.Vemachdien.resources
+E:\Phan mem dien\form menu\form menu\obj\Debug\form menu.csproj.GenerateResource.cache
+E:\Phan mem dien\form menu\form menu\obj\Debug\form menu.csproj.CoreCompileInputs.cache
+E:\Phan mem dien\form menu\form menu\obj\Debug\form menu.exe
+E:\Phan mem dien\form menu\form menu\obj\Debug\form menu.pdb

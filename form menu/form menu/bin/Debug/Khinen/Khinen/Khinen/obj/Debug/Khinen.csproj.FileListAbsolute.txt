@@ -1,0 +1,215 @@
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\Khinen.exe.config
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Khinen.csproj.ResolveComReference.cache
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\Khinen.exe
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\Khinen.pdb
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Barcodes.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Common.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Common.WinForms.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.EffectsProvider.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Dxf.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Excel.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Pdf.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Svg.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Swf.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Visio.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Wmf.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Draw.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Svg.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Visio.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.Controls.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Graphs.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Licensing.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Mapping.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Pdf.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Scripting.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Svg.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Swf.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Vsx.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Zip.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.EffectsProvider.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Dxf.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Excel.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Pdf.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Svg.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Swf.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Visio.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Wmf.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Draw.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Svg.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Visio.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.Controls.xml
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\Interop.AcroPDFLib.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\Interop.WMPLib.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Github Clone\Khinen\Khinen\Khinen\bin\Debug\AxInterop.WMPLib.dll
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Khinen.csprojResolveAssemblyReference.cache
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Interop.AcroPDFLib.dll
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Interop.WMPLib.dll
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\AxInterop.WMPLib.dll
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Khinen.Form1.resources
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Khinen.PDFViewerForm.resources
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Khinen.Properties.Resources.resources
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Khinen.csproj.GenerateResource.Cache
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Khinen.exe
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Khinen.pdb
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Khinen.Form2.resources
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Khinen.Vemachdien.resources
+E:\Github Clone\Khinen\Khinen\Khinen\obj\Debug\Khinen.View2DForm.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Khinen.exe.config
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Interop.AcroPDFLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Interop.WMPLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\AxInterop.WMPLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.csproj.ResolveComReference.cache
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.exe
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.pdb
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Khinen.exe
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Khinen.pdb
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Barcodes.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Common.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Common.WinForms.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.EffectsProvider.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Dxf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Excel.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Pdf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Svg.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Swf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Visio.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Wmf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Draw.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Svg.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Visio.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.Controls.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Graphs.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Licensing.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Mapping.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Pdf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Scripting.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Svg.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Swf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Vsx.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Zip.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.EffectsProvider.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Dxf.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Excel.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Pdf.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Svg.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Swf.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Visio.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Wmf.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Draw.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Svg.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Visio.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.Controls.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Interop.AcroPDFLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Interop.WMPLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\AxInterop.WMPLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.csprojResolveAssemblyReference.cache
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.Form1.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.Form2.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.Info.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.PDFViewerForm.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.Properties.Resources.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.View2DForm.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.csproj.GenerateResource.Cache
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Khinen.exe.config
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Khinen.exe
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Khinen.pdb
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Barcodes.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Common.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Common.WinForms.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.EffectsProvider.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Dxf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Excel.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Pdf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Svg.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Swf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Visio.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Wmf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Draw.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Svg.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Visio.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.Controls.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Graphs.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Licensing.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Mapping.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Pdf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Scripting.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Svg.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Swf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Vsx.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Zip.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.EffectsProvider.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Dxf.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Excel.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Pdf.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Svg.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Swf.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Visio.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Export.Wmf.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Draw.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Svg.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.Import.Visio.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\MindFusion.Diagramming.WinForms.Controls.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Interop.AcroPDFLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\Interop.WMPLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\bin\Debug\AxInterop.WMPLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.csprojAssemblyReference.cache
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Interop.AcroPDFLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Interop.WMPLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\AxInterop.WMPLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.csproj.ResolveComReference.cache
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.Form1.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.Form2.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.Info.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.PDFViewerForm.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.Properties.Resources.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.View2DForm.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.csproj.GenerateResource.cache
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.csproj.CoreCompileInputs.cache
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.csproj.CopyComplete
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.exe
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\Khinen\Khinen\Khinen\obj\Debug\Khinen.pdb
