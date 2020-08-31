@@ -74,3 +74,17 @@ E:\Phan mem dien\form menu\form menu\obj\Debug\form menu.csproj.GenerateResource
 E:\Phan mem dien\form menu\form menu\obj\Debug\form menu.csproj.CoreCompileInputs.cache
 E:\Phan mem dien\form menu\form menu\obj\Debug\form menu.exe
 E:\Phan mem dien\form menu\form menu\obj\Debug\form menu.pdb
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\bin\Debug\form menu.exe.config
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\obj\Debug\form menu.exe
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\obj\Debug\form menu.pdb
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\bin\Debug\form menu.exe
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\bin\Debug\form menu.pdb
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\obj\Debug\form menu.csprojResolveAssemblyReference.cache
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\obj\Debug\form_menu.Form1.resources
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\obj\Debug\form_menu.Lience.resources
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\obj\Debug\form_menu.Properties.Resources.resources
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\obj\Debug\form_menu.Vemachdien.resources
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\obj\Debug\form menu.csproj.GenerateResource.Cache
+E:\Job Project\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\bin\Debug\form menu.exe.config
+E:\Job Project\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\obj\Debug\form menu.exe
+E:\Job Project\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\obj\Debug\form menu.pdb
