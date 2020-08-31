@@ -1,0 +1,217 @@
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\Trangbidien.exe.config
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\Trangbidien.exe
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\Trangbidien.pdb
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Barcodes.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Common.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Common.WinForms.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.EffectsProvider.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Dxf.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Excel.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Pdf.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Svg.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Swf.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Visio.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Wmf.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Draw.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Svg.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Visio.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.Controls.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Graphs.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Licensing.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Mapping.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Pdf.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Scripting.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Svg.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Swf.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Vsx.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Zip.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.EffectsProvider.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Dxf.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Excel.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Pdf.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Svg.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Swf.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Visio.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Wmf.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Draw.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Svg.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Visio.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.Controls.xml
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\Interop.AcroPDFLib.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Trangbidien.csprojResolveAssemblyReference.cache
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Interop.AcroPDFLib.dll
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Trangbidien.csproj.ResolveComReference.cache
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Form1.resources
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Form2.resources
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Properties.Resources.resources
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Trangbidien.csproj.GenerateResource.Cache
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Trangbidien.exe
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Trangbidien.pdb
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\Interop.WMPLib.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Github Clone\Trangbidien\Trangbidien\bin\Debug\AxInterop.WMPLib.dll
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Interop.WMPLib.dll
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\AxInterop.WMPLib.dll
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Trangbidien.PDFViewerForm.resources
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Trangbidien.View2DForm.resources
+E:\Github Clone\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Vemachdien.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Trangbidien.exe.config
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Interop.AcroPDFLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Interop.WMPLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\AxInterop.WMPLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.csproj.ResolveComReference.cache
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.exe
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.pdb
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Trangbidien.exe
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Trangbidien.pdb
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Barcodes.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Common.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Common.WinForms.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.EffectsProvider.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Dxf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Excel.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Pdf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Svg.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Swf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Visio.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Wmf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Draw.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Svg.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Visio.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.Controls.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Graphs.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Licensing.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Mapping.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Pdf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Scripting.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Svg.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Swf.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Vsx.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Zip.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.EffectsProvider.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Dxf.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Excel.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Pdf.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Svg.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Swf.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Visio.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Wmf.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Draw.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Svg.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Visio.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.Controls.xml
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Interop.AcroPDFLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Interop.WMPLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\AxInterop.WMPLib.dll
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.csprojResolveAssemblyReference.cache
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Form1.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Form2.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Info.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.PDFViewerForm.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Properties.Resources.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Vemachdien.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.View2DForm.resources
+E:\Github Clone\Electric\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.csproj.GenerateResource.Cache
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.csprojAssemblyReference.cache
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Interop.AcroPDFLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Interop.WMPLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\AxInterop.WMPLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.csproj.ResolveComReference.cache
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Form1.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Form2.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Info.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.PDFViewerForm.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Vemachdien.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.View2DForm.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.csproj.GenerateResource.cache
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.exe
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.pdb
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Trangbidien.exe.config
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Trangbidien.exe
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Trangbidien.pdb
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Barcodes.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Common.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Common.WinForms.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.EffectsProvider.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Dxf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Excel.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Pdf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Svg.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Swf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Visio.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Wmf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Draw.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Svg.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Visio.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.Controls.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Graphs.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Licensing.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Mapping.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Pdf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Scripting.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Svg.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Swf.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Vsx.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Zip.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.EffectsProvider.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Dxf.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Excel.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Pdf.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Svg.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Swf.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Visio.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Export.Wmf.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Draw.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Svg.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.Import.Visio.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\MindFusion.Diagramming.WinForms.Controls.xml
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Interop.AcroPDFLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\Interop.WMPLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\bin\Debug\AxInterop.WMPLib.dll
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.Properties.Resources.resources
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.csproj.CoreCompileInputs.cache
+D:\nam\Phanmemquanlidien\Phanmemquanlidien\Phanmemquanlidien\bin\Debug\TrangBiDien\Trangbidien\Trangbidien\obj\Debug\Trangbidien.csproj.CopyComplete
