@@ -37,7 +37,7 @@ namespace form_menu
             Quantrivien thongtindangnhap = new Quantrivien(textBox1.Text.ToString(), textBox2.Text.ToString());
 
             ReadWriter rd = new ReadWriter();
-            if (textBox1.Text.ToString()== "admin"&& textBox2.Text =="123")
+            if (textBox1.Text.ToString()== "nguyenvannam"&& textBox2.Text =="123456")
             {
                 rd.SaveLienceKey();
                 MessageBox.Show("MÁY TÍNH ĐÃ ĐƯỢC CẤP QUYỀN THÀNH CÔNG!!(=_+)");
