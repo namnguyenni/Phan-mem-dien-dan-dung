@@ -143,6 +143,7 @@ namespace ElectricProject
 
             LoadTreeView();
             LoadDocument();
+            LoadDocument3D();
 
         }
 
@@ -239,6 +240,16 @@ namespace ElectricProject
             pdfForm.Show();
 
         }
+        private void LoadDocument3D()
+        {
+            string txtDirectoryPath = Environment.CurrentDirectory + @"\Thư viện mô hình 3D";
+            treeView2.Nodes.Clear();
+            toolTip1.ShowAlways = true;
+            if (txtDirectoryPath != "" && Directory.Exists(txtDirectoryPath))
+                LoadDirectory(txtDirectoryPath,treeView2);
+            else
+                MessageBox.Show("Select Directory!!");
+        }
 
         private void LoadDocument()
         {
@@ -246,15 +257,15 @@ namespace ElectricProject
             treeView1.Nodes.Clear();
             toolTip1.ShowAlways = true;
             if (txtDirectoryPath != "" && Directory.Exists(txtDirectoryPath))
-                LoadDirectory(txtDirectoryPath);
+                LoadDirectory(txtDirectoryPath,treeView1);
             else
                 MessageBox.Show("Select Directory!!");
         }
 
-        public void LoadDirectory(string Dir)
+        public void LoadDirectory(string Dir,TreeView tree)
         {
             DirectoryInfo di = new DirectoryInfo(Dir);
-            TreeNode tds = treeView1.Nodes.Add(di.Name);
+            TreeNode tds = tree.Nodes.Add(di.Name);
             tds.Tag = di.FullName;
             tds.StateImageIndex = 0;
             tds.SelectedImageIndex = 0;
@@ -305,6 +316,19 @@ namespace ElectricProject
             if (file.IsFile)
             {
                 pdfForm.OpenOffice(e.Node.Tag.ToString());
+                
+            }
+
+        }
+
+        private void treeView2_NodeMouseDoubleClick(object sender, TreeNodeMouseClickEventArgs e)
+        {
+            Uri file = new Uri(e.Node.Tag.ToString());
+            if (file.IsFile)
+            {
+                form3D.OpenOffice(e.Node.Tag.ToString());
+                form3D.BackColor = Color.White;
+                
             }
 
         }
@@ -335,8 +359,9 @@ namespace ElectricProject
             objForm.Show();
 
         }
-         
 
+
+        PDFViewerForm form3D = new PDFViewerForm();
         private void btn_3D_Click(object sender, EventArgs e)
         {
             if (panel_3D.Visible == true)
@@ -354,12 +379,12 @@ namespace ElectricProject
                 panel_work3d.Visible = true;
             }
 
-            PDFViewerForm objForm = new PDFViewerForm();
-            objForm.TopLevel = false;
-            panel_work3d.Controls.Add(objForm);
-            objForm.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            objForm.Dock = DockStyle.Fill;
-            objForm.Show();
+
+            form3D.TopLevel = false;
+            panel_work3d.Controls.Add(form3D);
+            form3D.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            form3D.Dock = DockStyle.Fill;
+            form3D.Show();
         }
 
         private void btn_BaiGiang_Click(object sender, EventArgs e)
