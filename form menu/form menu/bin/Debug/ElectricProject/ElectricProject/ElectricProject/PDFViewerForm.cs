@@ -28,6 +28,42 @@ namespace ElectricProject
             }
         }
 
+        public void OpenOffice(string file)
+        {
+
+
+                if (panel2.Visible == true)
+                {
+                    panel2.Visible = false;
+                }
+               
+                string outfile = Environment.CurrentDirectory + "/file.pdf";
+                string extension = System.IO.Path.GetExtension(file);
+                if (extension == ".doc" || extension == ".docx")
+                {
+                    ConvertWordToPdf(file, outfile);
+                }
+
+                if (extension == ".ppt" || extension == ".pptx")
+                {
+                    ConvertPowerPointToPdf(file, outfile);
+
+                }
+
+                if (extension == ".xls" || extension == ".xlsx")
+                {
+                    ConvertExcelToPdf(file, outfile);
+                }
+
+                if (extension == ".pdf")
+                {
+                    outfile = file;
+                }
+                else return;
+
+                axAcroPDF1.src = outfile;
+        }
+
             private void button_OpenOffice_Click(object sender, EventArgs e)
             {
 

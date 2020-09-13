@@ -142,6 +142,7 @@ namespace ElectricProject
             diagram1.UndoManager.History.Capacity = 20;
 
             LoadTreeView();
+            LoadDocument();
 
         }
 
@@ -208,6 +209,7 @@ namespace ElectricProject
 
         }
 
+        PDFViewerForm pdfForm = new PDFViewerForm();
         private void btn_Document_Click(object sender, EventArgs e)
         {
             
@@ -226,15 +228,84 @@ namespace ElectricProject
                 panel_worklythuyet.Visible = true;
 
             }
-            
+
 
             //fill form
-            PDFViewerForm objForm = new PDFViewerForm();
-            objForm.TopLevel = false;
-            panel_worklythuyet.Controls.Add(objForm);
-            objForm.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            objForm.Dock = DockStyle.Fill;
-            objForm.Show();
+
+            pdfForm.TopLevel = false;
+            panel_worklythuyet.Controls.Add(pdfForm);
+            pdfForm.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            pdfForm.Dock = DockStyle.Fill;
+            pdfForm.Show();
+
+        }
+
+        private void LoadDocument()
+        {
+            string txtDirectoryPath = Environment.CurrentDirectory + @"\Thư viện lí thuyết điện";
+            treeView1.Nodes.Clear();
+            toolTip1.ShowAlways = true;
+            if (txtDirectoryPath != "" && Directory.Exists(txtDirectoryPath))
+                LoadDirectory(txtDirectoryPath);
+            else
+                MessageBox.Show("Select Directory!!");
+        }
+
+        public void LoadDirectory(string Dir)
+        {
+            DirectoryInfo di = new DirectoryInfo(Dir);
+            TreeNode tds = treeView1.Nodes.Add(di.Name);
+            tds.Tag = di.FullName;
+            tds.StateImageIndex = 0;
+            tds.SelectedImageIndex = 0;
+            LoadFiles(Dir, tds);
+            LoadSubDirectories(Dir, tds);
+        }
+
+        private void LoadSubDirectories(string dir, TreeNode td)
+        {
+            // Get all subdirectories  
+            string[] subdirectoryEntries = Directory.GetDirectories(dir);
+            // Loop through them to see if they have any other subdirectories  
+            foreach (string subdirectory in subdirectoryEntries)
+            {
+
+                DirectoryInfo di = new DirectoryInfo(subdirectory);
+                TreeNode tds = td.Nodes.Add(di.Name);
+                tds.StateImageIndex = 0;
+                tds.SelectedImageIndex = 0;
+                tds.Tag = di.FullName;
+                LoadFiles(subdirectory, tds);
+                LoadSubDirectories(subdirectory, tds);
+                //UpdateProgress();
+
+            }
+        }
+
+        private void LoadFiles(string dir, TreeNode td)
+        {
+            string[] Files = Directory.GetFiles(dir, "*.*");
+
+            // Loop through them to see files  
+            foreach (string file in Files)
+            {
+                FileInfo fi = new FileInfo(file);
+                TreeNode tds = td.Nodes.Add(fi.Name);
+                tds.Tag = fi.FullName;
+                tds.ImageIndex = 5;
+                tds.SelectedImageIndex = 5;
+                //UpdateProgress();
+
+            }
+        }
+
+        private void treeView1_NodeMouseDoubleClick(object sender, TreeNodeMouseClickEventArgs e)
+        {
+            Uri file = new Uri(e.Node.Tag.ToString());
+            if (file.IsFile)
+            {
+                pdfForm.OpenOffice(e.Node.Tag.ToString());
+            }
 
         }
 
@@ -314,32 +385,6 @@ namespace ElectricProject
         private void btn_Option_Click(object sender, EventArgs e)
         {
 
-        }
-
-        private void btn_Lythuyetdien1_Click(object sender, EventArgs e)
-        {
-            if (panel_SubmenuDoccument1.Visible == false)
-            {
-                panel_SubmenuDoccument1.Visible = true;
-            }
-            else
-            {
-                panel_SubmenuDoccument1.Visible = false;
-            }
-            panel_SubmenuDoccument2.Visible = false;
-        }
-
-        private void btn_Lythuyetdien2_Click(object sender, EventArgs e)
-        {
-            if (panel_SubmenuDoccument2.Visible == false)
-            {
-                panel_SubmenuDoccument2.Visible = true;
-            }
-            else
-            {
-                panel_SubmenuDoccument2.Visible = false;
-            }
-            panel_SubmenuDoccument1.Visible = false;
         }
 
     #region Cac cong cu 3d
@@ -2305,6 +2350,7 @@ namespace ElectricProject
         {
 
         }
+
 
     }
 }

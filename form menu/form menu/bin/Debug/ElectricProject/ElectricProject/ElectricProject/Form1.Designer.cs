@@ -53,10 +53,10 @@ namespace ElectricProject
             this.btn_Document = new System.Windows.Forms.Button();
             this.panel_Home = new System.Windows.Forms.Panel();
             this.panel_Simulate = new System.Windows.Forms.Panel();
-            this.btn_Save = new System.Windows.Forms.Button();
-            this.btn_Export = new System.Windows.Forms.Button();
             this.btn_trangchu = new System.Windows.Forms.Button();
             this.tb_NameDocument = new System.Windows.Forms.Label();
+            this.btn_Save = new System.Windows.Forms.Button();
+            this.btn_Export = new System.Windows.Forms.Button();
             this.panel_Menu = new System.Windows.Forms.Panel();
             this.panel_BaiGiang = new System.Windows.Forms.Panel();
             this.button_LoadBaigiang = new System.Windows.Forms.Button();
@@ -71,7 +71,6 @@ namespace ElectricProject
             this.label27 = new System.Windows.Forms.Label();
             this.label28 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
             this.label31 = new System.Windows.Forms.Label();
             this.label32 = new System.Windows.Forms.Label();
             this.label33 = new System.Windows.Forms.Label();
@@ -97,7 +96,6 @@ namespace ElectricProject
             this.button66 = new System.Windows.Forms.Button();
             this.button67 = new System.Windows.Forms.Button();
             this.button68 = new System.Windows.Forms.Button();
-            this.button69 = new System.Windows.Forms.Button();
             this.button70 = new System.Windows.Forms.Button();
             this.button71 = new System.Windows.Forms.Button();
             this.button72 = new System.Windows.Forms.Button();
@@ -110,7 +108,6 @@ namespace ElectricProject
             this.label17 = new System.Windows.Forms.Label();
             this.label18 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
             this.label23 = new System.Windows.Forms.Label();
@@ -136,7 +133,6 @@ namespace ElectricProject
             this.button40 = new System.Windows.Forms.Button();
             this.button41 = new System.Windows.Forms.Button();
             this.button42 = new System.Windows.Forms.Button();
-            this.button43 = new System.Windows.Forms.Button();
             this.button44 = new System.Windows.Forms.Button();
             this.button45 = new System.Windows.Forms.Button();
             this.button46 = new System.Windows.Forms.Button();
@@ -145,7 +141,6 @@ namespace ElectricProject
             this.label16 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
@@ -172,21 +167,11 @@ namespace ElectricProject
             this.button17 = new System.Windows.Forms.Button();
             this.button23 = new System.Windows.Forms.Button();
             this.button11 = new System.Windows.Forms.Button();
-            this.button24 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
             this.button21 = new System.Windows.Forms.Button();
             this.button19 = new System.Windows.Forms.Button();
             this.panel_lythuyet = new System.Windows.Forms.Panel();
-            this.panel_SubmenuDoccument2 = new System.Windows.Forms.Panel();
-            this.button30 = new System.Windows.Forms.Button();
-            this.button31 = new System.Windows.Forms.Button();
-            this.button32 = new System.Windows.Forms.Button();
-            this.btn_Lythuyetdien2 = new System.Windows.Forms.Button();
-            this.panel_SubmenuDoccument1 = new System.Windows.Forms.Panel();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.btn_Lythuyetdien1 = new System.Windows.Forms.Button();
+            this.treeView1 = new System.Windows.Forms.TreeView();
             this.label2 = new System.Windows.Forms.Label();
             this.diagram1 = new MindFusion.Diagramming.Diagram();
             this.workpanel = new System.Windows.Forms.Panel();
@@ -205,31 +190,26 @@ namespace ElectricProject
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.buttonRedo = new System.Windows.Forms.Button();
             this.buttonUndo = new System.Windows.Forms.Button();
-            this.panel_Lineproperties = new System.Windows.Forms.Panel();
-            this.panel_LineProperties1 = new System.Windows.Forms.Panel();
-            this.labelZoom = new System.Windows.Forms.Label();
             this.btn_ZoomIn = new System.Windows.Forms.Button();
             this.btn_ZoomOut = new System.Windows.Forms.Button();
             this.btn_Grid = new System.Windows.Forms.Button();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.label8 = new System.Windows.Forms.Label();
             this.TextboxLine = new System.Windows.Forms.TextBox();
             this.TextboxWidth = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
+            this.button24 = new System.Windows.Forms.Button();
+            this.panel_Lineproperties = new System.Windows.Forms.Panel();
+            this.panel_LineProperties1 = new System.Windows.Forms.Panel();
+            this.labelZoom = new System.Windows.Forms.Label();
             this.panel_Menubar.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.panel_Sidebar.SuspendLayout();
             this.panel_Home.SuspendLayout();
-            this.panel_Simulate.SuspendLayout();
             this.panel_Menu.SuspendLayout();
             this.panel_BaiGiang.SuspendLayout();
             this.panel_3D.SuspendLayout();
             this.panel_2D.SuspendLayout();
             this.panel_Thuchanh.SuspendLayout();
             this.panel_lythuyet.SuspendLayout();
-            this.panel_SubmenuDoccument2.SuspendLayout();
-            this.panel_SubmenuDoccument1.SuspendLayout();
             this.workpanel.SuspendLayout();
             this.panel_work_baigiang.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -403,9 +383,9 @@ namespace ElectricProject
             this.panel_Sidebar.Controls.Add(this.btn_2D);
             this.panel_Sidebar.Controls.Add(this.btn_Document);
             this.panel_Sidebar.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel_Sidebar.Location = new System.Drawing.Point(0, 86);
+            this.panel_Sidebar.Location = new System.Drawing.Point(0, 66);
             this.panel_Sidebar.Name = "panel_Sidebar";
-            this.panel_Sidebar.Size = new System.Drawing.Size(50, 702);
+            this.panel_Sidebar.Size = new System.Drawing.Size(50, 722);
             this.panel_Sidebar.TabIndex = 1;
             // 
             // btn_Option
@@ -527,21 +507,51 @@ namespace ElectricProject
             this.panel_Home.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
             this.panel_Home.Controls.Add(this.panel_Simulate);
             this.panel_Home.Controls.Add(this.btn_trangchu);
+            this.panel_Home.Controls.Add(this.tb_NameDocument);
             this.panel_Home.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel_Home.Location = new System.Drawing.Point(0, 35);
             this.panel_Home.Name = "panel_Home";
-            this.panel_Home.Size = new System.Drawing.Size(1386, 51);
+            this.panel_Home.Size = new System.Drawing.Size(1386, 31);
             this.panel_Home.TabIndex = 2;
             // 
             // panel_Simulate
             // 
-            this.panel_Simulate.Controls.Add(this.btn_Save);
-            this.panel_Simulate.Controls.Add(this.btn_Export);
             this.panel_Simulate.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel_Simulate.Location = new System.Drawing.Point(1141, 0);
             this.panel_Simulate.Name = "panel_Simulate";
-            this.panel_Simulate.Size = new System.Drawing.Size(245, 51);
+            this.panel_Simulate.Size = new System.Drawing.Size(245, 31);
             this.panel_Simulate.TabIndex = 3;
+            // 
+            // btn_trangchu
+            // 
+            this.btn_trangchu.Dock = System.Windows.Forms.DockStyle.Left;
+            this.btn_trangchu.FlatAppearance.BorderSize = 0;
+            this.btn_trangchu.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(39)))));
+            this.btn_trangchu.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(39)))));
+            this.btn_trangchu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_trangchu.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_trangchu.ForeColor = System.Drawing.Color.Transparent;
+            this.btn_trangchu.Image = global::ElectricProject.Properties.Resources.BTN_BACK;
+            this.btn_trangchu.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_trangchu.Location = new System.Drawing.Point(0, 0);
+            this.btn_trangchu.Name = "btn_trangchu";
+            this.btn_trangchu.Size = new System.Drawing.Size(115, 31);
+            this.btn_trangchu.TabIndex = 0;
+            this.btn_trangchu.Text = "Trang chủ";
+            this.btn_trangchu.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btn_trangchu.UseVisualStyleBackColor = true;
+            this.btn_trangchu.Click += new System.EventHandler(this.btn_trangchu_Click);
+            // 
+            // tb_NameDocument
+            // 
+            this.tb_NameDocument.AutoSize = true;
+            this.tb_NameDocument.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb_NameDocument.ForeColor = System.Drawing.Color.Silver;
+            this.tb_NameDocument.Location = new System.Drawing.Point(299, 8);
+            this.tb_NameDocument.Name = "tb_NameDocument";
+            this.tb_NameDocument.Size = new System.Drawing.Size(37, 17);
+            this.tb_NameDocument.TabIndex = 0;
+            this.tb_NameDocument.Text = "Tên:";
             // 
             // btn_Save
             // 
@@ -552,7 +562,7 @@ namespace ElectricProject
             this.btn_Save.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Save.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Save.ForeColor = System.Drawing.SystemColors.Control;
-            this.btn_Save.Location = new System.Drawing.Point(15, 11);
+            this.btn_Save.Location = new System.Drawing.Point(861, 18);
             this.btn_Save.Name = "btn_Save";
             this.btn_Save.Size = new System.Drawing.Size(107, 31);
             this.btn_Save.TabIndex = 2;
@@ -570,44 +580,13 @@ namespace ElectricProject
             this.btn_Export.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Export.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Export.ForeColor = System.Drawing.SystemColors.Control;
-            this.btn_Export.Location = new System.Drawing.Point(128, 11);
+            this.btn_Export.Location = new System.Drawing.Point(974, 19);
             this.btn_Export.Name = "btn_Export";
             this.btn_Export.Size = new System.Drawing.Size(107, 31);
             this.btn_Export.TabIndex = 1;
             this.btn_Export.Text = "Xuất bản";
             this.btn_Export.UseVisualStyleBackColor = false;
             this.btn_Export.Click += new System.EventHandler(this.btn_Export_Click);
-            // 
-            // btn_trangchu
-            // 
-            this.btn_trangchu.Dock = System.Windows.Forms.DockStyle.Left;
-            this.btn_trangchu.FlatAppearance.BorderSize = 0;
-            this.btn_trangchu.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(39)))));
-            this.btn_trangchu.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(39)))));
-            this.btn_trangchu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_trangchu.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_trangchu.ForeColor = System.Drawing.Color.Transparent;
-            this.btn_trangchu.Image = global::ElectricProject.Properties.Resources.BTN_BACK;
-            this.btn_trangchu.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_trangchu.Location = new System.Drawing.Point(0, 0);
-            this.btn_trangchu.Name = "btn_trangchu";
-            this.btn_trangchu.Size = new System.Drawing.Size(115, 51);
-            this.btn_trangchu.TabIndex = 0;
-            this.btn_trangchu.Text = "Trang chủ";
-            this.btn_trangchu.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btn_trangchu.UseVisualStyleBackColor = true;
-            this.btn_trangchu.Click += new System.EventHandler(this.btn_trangchu_Click);
-            // 
-            // tb_NameDocument
-            // 
-            this.tb_NameDocument.AutoSize = true;
-            this.tb_NameDocument.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tb_NameDocument.ForeColor = System.Drawing.Color.Silver;
-            this.tb_NameDocument.Location = new System.Drawing.Point(89, 16);
-            this.tb_NameDocument.Name = "tb_NameDocument";
-            this.tb_NameDocument.Size = new System.Drawing.Size(37, 17);
-            this.tb_NameDocument.TabIndex = 0;
-            this.tb_NameDocument.Text = "Tên:";
             // 
             // panel_Menu
             // 
@@ -619,9 +598,9 @@ namespace ElectricProject
             this.panel_Menu.Controls.Add(this.panel_Thuchanh);
             this.panel_Menu.Controls.Add(this.panel_lythuyet);
             this.panel_Menu.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel_Menu.Location = new System.Drawing.Point(50, 86);
+            this.panel_Menu.Location = new System.Drawing.Point(50, 66);
             this.panel_Menu.Name = "panel_Menu";
-            this.panel_Menu.Size = new System.Drawing.Size(243, 702);
+            this.panel_Menu.Size = new System.Drawing.Size(243, 722);
             this.panel_Menu.TabIndex = 4;
             // 
             // panel_BaiGiang
@@ -634,7 +613,7 @@ namespace ElectricProject
             this.panel_BaiGiang.Controls.Add(this.treeView_Baigiang);
             this.panel_BaiGiang.Controls.Add(this.label26);
             this.panel_BaiGiang.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel_BaiGiang.Location = new System.Drawing.Point(0, 4209);
+            this.panel_BaiGiang.Location = new System.Drawing.Point(0, 3760);
             this.panel_BaiGiang.Name = "panel_BaiGiang";
             this.panel_BaiGiang.Size = new System.Drawing.Size(226, 669);
             this.panel_BaiGiang.TabIndex = 5;
@@ -775,7 +754,6 @@ namespace ElectricProject
             this.panel_3D.Controls.Add(this.label27);
             this.panel_3D.Controls.Add(this.label28);
             this.panel_3D.Controls.Add(this.label29);
-            this.panel_3D.Controls.Add(this.label30);
             this.panel_3D.Controls.Add(this.label31);
             this.panel_3D.Controls.Add(this.label32);
             this.panel_3D.Controls.Add(this.label33);
@@ -801,7 +779,6 @@ namespace ElectricProject
             this.panel_3D.Controls.Add(this.button66);
             this.panel_3D.Controls.Add(this.button67);
             this.panel_3D.Controls.Add(this.button68);
-            this.panel_3D.Controls.Add(this.button69);
             this.panel_3D.Controls.Add(this.button70);
             this.panel_3D.Controls.Add(this.button71);
             this.panel_3D.Controls.Add(this.button72);
@@ -811,9 +788,9 @@ namespace ElectricProject
             this.panel_3D.Controls.Add(this.button92);
             this.panel_3D.Controls.Add(this.label4);
             this.panel_3D.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel_3D.Location = new System.Drawing.Point(0, 2929);
+            this.panel_3D.Location = new System.Drawing.Point(0, 2728);
             this.panel_3D.Name = "panel_3D";
-            this.panel_3D.Size = new System.Drawing.Size(226, 1280);
+            this.panel_3D.Size = new System.Drawing.Size(226, 1032);
             this.panel_3D.TabIndex = 4;
             // 
             // label27
@@ -821,44 +798,33 @@ namespace ElectricProject
             this.label27.AutoSize = true;
             this.label27.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label27.ForeColor = System.Drawing.Color.White;
-            this.label27.Location = new System.Drawing.Point(15, 988);
+            this.label27.Location = new System.Drawing.Point(15, 891);
             this.label27.Name = "label27";
             this.label27.Size = new System.Drawing.Size(72, 17);
             this.label27.TabIndex = 107;
-            this.label27.Text = "9. BIẾN ÁP";
+            this.label27.Text = "8. BIẾN ÁP";
             // 
             // label28
             // 
             this.label28.AutoSize = true;
             this.label28.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label28.ForeColor = System.Drawing.Color.White;
-            this.label28.Location = new System.Drawing.Point(15, 761);
+            this.label28.Location = new System.Drawing.Point(15, 664);
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(53, 17);
             this.label28.TabIndex = 106;
-            this.label28.Text = "8. ROLE";
+            this.label28.Text = "7. ROLE";
             // 
             // label29
             // 
             this.label29.AutoSize = true;
             this.label29.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.ForeColor = System.Drawing.Color.White;
-            this.label29.Location = new System.Drawing.Point(12, 665);
+            this.label29.Location = new System.Drawing.Point(12, 568);
             this.label29.Name = "label29";
             this.label29.Size = new System.Drawing.Size(82, 17);
             this.label29.TabIndex = 105;
-            this.label29.Text = "7. APTOMAT";
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label30.ForeColor = System.Drawing.Color.White;
-            this.label30.Location = new System.Drawing.Point(15, 568);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(78, 17);
-            this.label30.TabIndex = 104;
-            this.label30.Text = "6. MÁY CẮT";
+            this.label29.Text = "6. APTOMAT";
             // 
             // label31
             // 
@@ -927,7 +893,7 @@ namespace ElectricProject
             this.button47.ForeColor = System.Drawing.Color.Silver;
             this.button47.Image = global::ElectricProject.Properties.Resources._29_MayBienAp3Pha;
             this.button47.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button47.Location = new System.Drawing.Point(95, 1010);
+            this.button47.Location = new System.Drawing.Point(95, 913);
             this.button47.Name = "button47";
             this.button47.Size = new System.Drawing.Size(50, 72);
             this.button47.TabIndex = 98;
@@ -947,7 +913,7 @@ namespace ElectricProject
             this.button48.ForeColor = System.Drawing.Color.Silver;
             this.button48.Image = global::ElectricProject.Properties.Resources._28_MayBienApCamUng;
             this.button48.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button48.Location = new System.Drawing.Point(27, 1010);
+            this.button48.Location = new System.Drawing.Point(27, 913);
             this.button48.Name = "button48";
             this.button48.Size = new System.Drawing.Size(50, 72);
             this.button48.TabIndex = 97;
@@ -967,7 +933,7 @@ namespace ElectricProject
             this.button49.ForeColor = System.Drawing.Color.Silver;
             this.button49.Image = global::ElectricProject.Properties.Resources._27_BienApTuNgau;
             this.button49.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button49.Location = new System.Drawing.Point(163, 1011);
+            this.button49.Location = new System.Drawing.Point(163, 914);
             this.button49.Name = "button49";
             this.button49.Size = new System.Drawing.Size(50, 72);
             this.button49.TabIndex = 96;
@@ -987,7 +953,7 @@ namespace ElectricProject
             this.button50.ForeColor = System.Drawing.Color.Silver;
             this.button50.Image = global::ElectricProject.Properties.Resources._26_CauChi;
             this.button50.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button50.Location = new System.Drawing.Point(92, 852);
+            this.button50.Location = new System.Drawing.Point(92, 755);
             this.button50.Name = "button50";
             this.button50.Size = new System.Drawing.Size(50, 72);
             this.button50.TabIndex = 95;
@@ -1007,7 +973,7 @@ namespace ElectricProject
             this.button51.ForeColor = System.Drawing.Color.Silver;
             this.button51.Image = global::ElectricProject.Properties.Resources._25_RoleBaoVeMatPha;
             this.button51.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button51.Location = new System.Drawing.Point(24, 852);
+            this.button51.Location = new System.Drawing.Point(24, 755);
             this.button51.Name = "button51";
             this.button51.Size = new System.Drawing.Size(50, 72);
             this.button51.TabIndex = 94;
@@ -1027,7 +993,7 @@ namespace ElectricProject
             this.button52.ForeColor = System.Drawing.Color.Silver;
             this.button52.Image = global::ElectricProject.Properties.Resources._24_RoleBaoVeQuaDong;
             this.button52.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button52.Location = new System.Drawing.Point(160, 851);
+            this.button52.Location = new System.Drawing.Point(160, 754);
             this.button52.Name = "button52";
             this.button52.Size = new System.Drawing.Size(50, 72);
             this.button52.TabIndex = 93;
@@ -1047,7 +1013,7 @@ namespace ElectricProject
             this.button54.ForeColor = System.Drawing.Color.Silver;
             this.button54.Image = global::ElectricProject.Properties.Resources._23_RoleNhiet;
             this.button54.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button54.Location = new System.Drawing.Point(92, 781);
+            this.button54.Location = new System.Drawing.Point(92, 684);
             this.button54.Name = "button54";
             this.button54.Size = new System.Drawing.Size(50, 72);
             this.button54.TabIndex = 92;
@@ -1067,7 +1033,7 @@ namespace ElectricProject
             this.button55.ForeColor = System.Drawing.Color.Silver;
             this.button55.Image = global::ElectricProject.Properties.Resources._22_Role;
             this.button55.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button55.Location = new System.Drawing.Point(24, 781);
+            this.button55.Location = new System.Drawing.Point(24, 684);
             this.button55.Name = "button55";
             this.button55.Size = new System.Drawing.Size(50, 72);
             this.button55.TabIndex = 91;
@@ -1087,7 +1053,7 @@ namespace ElectricProject
             this.button56.ForeColor = System.Drawing.Color.Silver;
             this.button56.Image = global::ElectricProject.Properties.Resources._21_RoleThoiGian;
             this.button56.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button56.Location = new System.Drawing.Point(160, 781);
+            this.button56.Location = new System.Drawing.Point(160, 684);
             this.button56.Name = "button56";
             this.button56.Size = new System.Drawing.Size(50, 72);
             this.button56.TabIndex = 90;
@@ -1127,7 +1093,7 @@ namespace ElectricProject
             this.button58.ForeColor = System.Drawing.Color.Silver;
             this.button58.Image = global::ElectricProject.Properties.Resources._20_RoleBaoVeDienAp;
             this.button58.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button58.Location = new System.Drawing.Point(21, 916);
+            this.button58.Location = new System.Drawing.Point(21, 819);
             this.button58.Name = "button58";
             this.button58.Size = new System.Drawing.Size(50, 72);
             this.button58.TabIndex = 89;
@@ -1187,7 +1153,7 @@ namespace ElectricProject
             this.button61.ForeColor = System.Drawing.Color.Silver;
             this.button61.Image = global::ElectricProject.Properties.Resources._19_Aptomat3Pha;
             this.button61.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button61.Location = new System.Drawing.Point(24, 687);
+            this.button61.Location = new System.Drawing.Point(24, 590);
             this.button61.Name = "button61";
             this.button61.Size = new System.Drawing.Size(50, 72);
             this.button61.TabIndex = 88;
@@ -1227,7 +1193,7 @@ namespace ElectricProject
             this.button64.ForeColor = System.Drawing.Color.Silver;
             this.button64.Image = global::ElectricProject.Properties.Resources._18_role_bao_ve_dien_ap1;
             this.button64.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button64.Location = new System.Drawing.Point(157, 687);
+            this.button64.Location = new System.Drawing.Point(157, 590);
             this.button64.Name = "button64";
             this.button64.Size = new System.Drawing.Size(50, 72);
             this.button64.TabIndex = 87;
@@ -1287,7 +1253,7 @@ namespace ElectricProject
             this.button67.ForeColor = System.Drawing.Color.Silver;
             this.button67.Image = global::ElectricProject.Properties.Resources._17_Aptomat1Pha1;
             this.button67.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button67.Location = new System.Drawing.Point(89, 687);
+            this.button67.Location = new System.Drawing.Point(89, 590);
             this.button67.Name = "button67";
             this.button67.Size = new System.Drawing.Size(50, 72);
             this.button67.TabIndex = 86;
@@ -1314,26 +1280,6 @@ namespace ElectricProject
             this.button68.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.toolTip1.SetToolTip(this.button68, "CONTACTOR");
             this.button68.UseVisualStyleBackColor = false;
-            // 
-            // button69
-            // 
-            this.button69.BackColor = System.Drawing.Color.Transparent;
-            this.button69.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button69.FlatAppearance.BorderSize = 0;
-            this.button69.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button69.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button69.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button69.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button69.ForeColor = System.Drawing.Color.Silver;
-            this.button69.Image = global::ElectricProject.Properties.Resources._16_MayCat;
-            this.button69.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button69.Location = new System.Drawing.Point(24, 588);
-            this.button69.Name = "button69";
-            this.button69.Size = new System.Drawing.Size(50, 72);
-            this.button69.TabIndex = 85;
-            this.button69.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.toolTip1.SetToolTip(this.button69, "MÁY CẮT");
-            this.button69.UseVisualStyleBackColor = false;
             // 
             // button70
             // 
@@ -1483,7 +1429,6 @@ namespace ElectricProject
             this.panel_2D.Controls.Add(this.label17);
             this.panel_2D.Controls.Add(this.label18);
             this.panel_2D.Controls.Add(this.label19);
-            this.panel_2D.Controls.Add(this.label20);
             this.panel_2D.Controls.Add(this.label21);
             this.panel_2D.Controls.Add(this.label22);
             this.panel_2D.Controls.Add(this.label23);
@@ -1509,15 +1454,14 @@ namespace ElectricProject
             this.panel_2D.Controls.Add(this.button40);
             this.panel_2D.Controls.Add(this.button41);
             this.panel_2D.Controls.Add(this.button42);
-            this.panel_2D.Controls.Add(this.button43);
             this.panel_2D.Controls.Add(this.button44);
             this.panel_2D.Controls.Add(this.button45);
             this.panel_2D.Controls.Add(this.button46);
             this.panel_2D.Controls.Add(this.label3);
             this.panel_2D.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel_2D.Location = new System.Drawing.Point(0, 1629);
+            this.panel_2D.Location = new System.Drawing.Point(0, 1708);
             this.panel_2D.Name = "panel_2D";
-            this.panel_2D.Size = new System.Drawing.Size(226, 1300);
+            this.panel_2D.Size = new System.Drawing.Size(226, 1020);
             this.panel_2D.TabIndex = 3;
             // 
             // label17
@@ -1525,44 +1469,33 @@ namespace ElectricProject
             this.label17.AutoSize = true;
             this.label17.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.ForeColor = System.Drawing.Color.White;
-            this.label17.Location = new System.Drawing.Point(15, 1014);
+            this.label17.Location = new System.Drawing.Point(15, 913);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(72, 17);
             this.label17.TabIndex = 71;
-            this.label17.Text = "9. BIẾN ÁP";
+            this.label17.Text = "8. BIẾN ÁP";
             // 
             // label18
             // 
             this.label18.AutoSize = true;
             this.label18.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label18.ForeColor = System.Drawing.Color.White;
-            this.label18.Location = new System.Drawing.Point(15, 787);
+            this.label18.Location = new System.Drawing.Point(15, 686);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(53, 17);
             this.label18.TabIndex = 70;
-            this.label18.Text = "8. ROLE";
+            this.label18.Text = "7. ROLE";
             // 
             // label19
             // 
             this.label19.AutoSize = true;
             this.label19.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label19.ForeColor = System.Drawing.Color.White;
-            this.label19.Location = new System.Drawing.Point(12, 691);
+            this.label19.Location = new System.Drawing.Point(12, 590);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(82, 17);
             this.label19.TabIndex = 69;
-            this.label19.Text = "7. APTOMAT";
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label20.ForeColor = System.Drawing.Color.White;
-            this.label20.Location = new System.Drawing.Point(15, 594);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(78, 17);
-            this.label20.TabIndex = 68;
-            this.label20.Text = "6. MÁY CẮT";
+            this.label19.Text = "6. APTOMAT";
             // 
             // label21
             // 
@@ -1631,7 +1564,7 @@ namespace ElectricProject
             this.button1.ForeColor = System.Drawing.Color.Silver;
             this.button1.Image = global::ElectricProject.Properties.Resources._29_MayBienAp3Pha;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button1.Location = new System.Drawing.Point(95, 1036);
+            this.button1.Location = new System.Drawing.Point(95, 935);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(50, 72);
             this.button1.TabIndex = 62;
@@ -1651,7 +1584,7 @@ namespace ElectricProject
             this.button2.ForeColor = System.Drawing.Color.Silver;
             this.button2.Image = global::ElectricProject.Properties.Resources._28_MayBienApCamUng;
             this.button2.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button2.Location = new System.Drawing.Point(27, 1036);
+            this.button2.Location = new System.Drawing.Point(27, 935);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(50, 72);
             this.button2.TabIndex = 61;
@@ -1671,7 +1604,7 @@ namespace ElectricProject
             this.button3.ForeColor = System.Drawing.Color.Silver;
             this.button3.Image = global::ElectricProject.Properties.Resources._27_BienApTuNgau;
             this.button3.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button3.Location = new System.Drawing.Point(163, 1037);
+            this.button3.Location = new System.Drawing.Point(163, 936);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(50, 72);
             this.button3.TabIndex = 60;
@@ -1691,7 +1624,7 @@ namespace ElectricProject
             this.button8.ForeColor = System.Drawing.Color.Silver;
             this.button8.Image = global::ElectricProject.Properties.Resources._26_CauChi;
             this.button8.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button8.Location = new System.Drawing.Point(92, 878);
+            this.button8.Location = new System.Drawing.Point(92, 777);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(50, 72);
             this.button8.TabIndex = 59;
@@ -1711,7 +1644,7 @@ namespace ElectricProject
             this.button12.ForeColor = System.Drawing.Color.Silver;
             this.button12.Image = global::ElectricProject.Properties.Resources._25_RoleBaoVeMatPha;
             this.button12.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button12.Location = new System.Drawing.Point(24, 878);
+            this.button12.Location = new System.Drawing.Point(24, 777);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(50, 72);
             this.button12.TabIndex = 58;
@@ -1731,7 +1664,7 @@ namespace ElectricProject
             this.button16.ForeColor = System.Drawing.Color.Silver;
             this.button16.Image = global::ElectricProject.Properties.Resources._24_RoleBaoVeQuaDong;
             this.button16.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button16.Location = new System.Drawing.Point(160, 877);
+            this.button16.Location = new System.Drawing.Point(160, 776);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(50, 72);
             this.button16.TabIndex = 57;
@@ -1751,7 +1684,7 @@ namespace ElectricProject
             this.button18.ForeColor = System.Drawing.Color.Silver;
             this.button18.Image = global::ElectricProject.Properties.Resources._23_RoleNhiet;
             this.button18.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button18.Location = new System.Drawing.Point(92, 807);
+            this.button18.Location = new System.Drawing.Point(92, 706);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(50, 72);
             this.button18.TabIndex = 56;
@@ -1771,7 +1704,7 @@ namespace ElectricProject
             this.button20.ForeColor = System.Drawing.Color.Silver;
             this.button20.Image = global::ElectricProject.Properties.Resources._22_Role;
             this.button20.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button20.Location = new System.Drawing.Point(24, 807);
+            this.button20.Location = new System.Drawing.Point(24, 706);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(50, 72);
             this.button20.TabIndex = 55;
@@ -1791,7 +1724,7 @@ namespace ElectricProject
             this.button28.ForeColor = System.Drawing.Color.Silver;
             this.button28.Image = global::ElectricProject.Properties.Resources._21_RoleThoiGian;
             this.button28.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button28.Location = new System.Drawing.Point(160, 807);
+            this.button28.Location = new System.Drawing.Point(160, 706);
             this.button28.Name = "button28";
             this.button28.Size = new System.Drawing.Size(50, 72);
             this.button28.TabIndex = 54;
@@ -1831,7 +1764,7 @@ namespace ElectricProject
             this.button33.ForeColor = System.Drawing.Color.Silver;
             this.button33.Image = global::ElectricProject.Properties.Resources._20_RoleBaoVeDienAp;
             this.button33.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button33.Location = new System.Drawing.Point(21, 942);
+            this.button33.Location = new System.Drawing.Point(21, 841);
             this.button33.Name = "button33";
             this.button33.Size = new System.Drawing.Size(50, 72);
             this.button33.TabIndex = 53;
@@ -1891,7 +1824,7 @@ namespace ElectricProject
             this.button36.ForeColor = System.Drawing.Color.Silver;
             this.button36.Image = global::ElectricProject.Properties.Resources._19_Aptomat3Pha;
             this.button36.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button36.Location = new System.Drawing.Point(24, 713);
+            this.button36.Location = new System.Drawing.Point(24, 612);
             this.button36.Name = "button36";
             this.button36.Size = new System.Drawing.Size(50, 72);
             this.button36.TabIndex = 52;
@@ -1931,7 +1864,7 @@ namespace ElectricProject
             this.button38.ForeColor = System.Drawing.Color.Silver;
             this.button38.Image = global::ElectricProject.Properties.Resources._18_role_bao_ve_dien_ap1;
             this.button38.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button38.Location = new System.Drawing.Point(157, 713);
+            this.button38.Location = new System.Drawing.Point(157, 612);
             this.button38.Name = "button38";
             this.button38.Size = new System.Drawing.Size(50, 72);
             this.button38.TabIndex = 51;
@@ -1991,7 +1924,7 @@ namespace ElectricProject
             this.button41.ForeColor = System.Drawing.Color.Silver;
             this.button41.Image = global::ElectricProject.Properties.Resources._17_Aptomat1Pha1;
             this.button41.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button41.Location = new System.Drawing.Point(89, 713);
+            this.button41.Location = new System.Drawing.Point(89, 612);
             this.button41.Name = "button41";
             this.button41.Size = new System.Drawing.Size(50, 72);
             this.button41.TabIndex = 50;
@@ -2018,26 +1951,6 @@ namespace ElectricProject
             this.button42.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.toolTip1.SetToolTip(this.button42, "CONTACTOR");
             this.button42.UseVisualStyleBackColor = false;
-            // 
-            // button43
-            // 
-            this.button43.BackColor = System.Drawing.Color.Transparent;
-            this.button43.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button43.FlatAppearance.BorderSize = 0;
-            this.button43.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button43.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button43.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button43.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button43.ForeColor = System.Drawing.Color.Silver;
-            this.button43.Image = global::ElectricProject.Properties.Resources._16_MayCat;
-            this.button43.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button43.Location = new System.Drawing.Point(24, 614);
-            this.button43.Name = "button43";
-            this.button43.Size = new System.Drawing.Size(50, 72);
-            this.button43.TabIndex = 49;
-            this.button43.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.toolTip1.SetToolTip(this.button43, "MÁY CẮT");
-            this.button43.UseVisualStyleBackColor = false;
             // 
             // button44
             // 
@@ -2115,7 +2028,6 @@ namespace ElectricProject
             this.panel_Thuchanh.Controls.Add(this.label16);
             this.panel_Thuchanh.Controls.Add(this.label15);
             this.panel_Thuchanh.Controls.Add(this.label14);
-            this.panel_Thuchanh.Controls.Add(this.label13);
             this.panel_Thuchanh.Controls.Add(this.label12);
             this.panel_Thuchanh.Controls.Add(this.label11);
             this.panel_Thuchanh.Controls.Add(this.label10);
@@ -2142,16 +2054,15 @@ namespace ElectricProject
             this.panel_Thuchanh.Controls.Add(this.button17);
             this.panel_Thuchanh.Controls.Add(this.button23);
             this.panel_Thuchanh.Controls.Add(this.button11);
-            this.panel_Thuchanh.Controls.Add(this.button24);
             this.panel_Thuchanh.Controls.Add(this.button9);
             this.panel_Thuchanh.Controls.Add(this.button21);
             this.panel_Thuchanh.Controls.Add(this.button19);
             this.panel_Thuchanh.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel_Thuchanh.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panel_Thuchanh.ForeColor = System.Drawing.Color.White;
-            this.panel_Thuchanh.Location = new System.Drawing.Point(0, 409);
+            this.panel_Thuchanh.Location = new System.Drawing.Point(0, 673);
             this.panel_Thuchanh.Name = "panel_Thuchanh";
-            this.panel_Thuchanh.Size = new System.Drawing.Size(226, 1220);
+            this.panel_Thuchanh.Size = new System.Drawing.Size(226, 1035);
             this.panel_Thuchanh.TabIndex = 1;
             this.panel_Thuchanh.Paint += new System.Windows.Forms.PaintEventHandler(this.panel_Thuchanh_Paint);
             // 
@@ -2160,44 +2071,33 @@ namespace ElectricProject
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.ForeColor = System.Drawing.Color.White;
-            this.label16.Location = new System.Drawing.Point(6, 997);
+            this.label16.Location = new System.Drawing.Point(6, 901);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(72, 17);
             this.label16.TabIndex = 38;
-            this.label16.Text = "9. BIẾN ÁP";
+            this.label16.Text = "8. BIẾN ÁP";
             // 
             // label15
             // 
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.ForeColor = System.Drawing.Color.White;
-            this.label15.Location = new System.Drawing.Point(6, 770);
+            this.label15.Location = new System.Drawing.Point(6, 674);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(53, 17);
             this.label15.TabIndex = 37;
-            this.label15.Text = "8. ROLE";
+            this.label15.Text = "7. ROLE";
             // 
             // label14
             // 
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.ForeColor = System.Drawing.Color.White;
-            this.label14.Location = new System.Drawing.Point(3, 674);
+            this.label14.Location = new System.Drawing.Point(3, 578);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(82, 17);
             this.label14.TabIndex = 36;
-            this.label14.Text = "7. APTOMAT";
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.ForeColor = System.Drawing.Color.White;
-            this.label13.Location = new System.Drawing.Point(6, 577);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(78, 17);
-            this.label13.TabIndex = 35;
-            this.label13.Text = "6. MÁY CẮT";
+            this.label14.Text = "6. APTOMAT";
             // 
             // label12
             // 
@@ -2266,7 +2166,7 @@ namespace ElectricProject
             this.button79.ForeColor = System.Drawing.Color.Silver;
             this.button79.Image = global::ElectricProject.Properties.Resources._29_MayBienAp3Pha;
             this.button79.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button79.Location = new System.Drawing.Point(86, 1019);
+            this.button79.Location = new System.Drawing.Point(86, 923);
             this.button79.Name = "button79";
             this.button79.Size = new System.Drawing.Size(50, 72);
             this.button79.TabIndex = 29;
@@ -2286,7 +2186,7 @@ namespace ElectricProject
             this.button80.ForeColor = System.Drawing.Color.Silver;
             this.button80.Image = global::ElectricProject.Properties.Resources._28_MayBienApCamUng;
             this.button80.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button80.Location = new System.Drawing.Point(18, 1019);
+            this.button80.Location = new System.Drawing.Point(18, 923);
             this.button80.Name = "button80";
             this.button80.Size = new System.Drawing.Size(50, 72);
             this.button80.TabIndex = 28;
@@ -2306,7 +2206,7 @@ namespace ElectricProject
             this.button75.ForeColor = System.Drawing.Color.Silver;
             this.button75.Image = global::ElectricProject.Properties.Resources._27_BienApTuNgau;
             this.button75.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button75.Location = new System.Drawing.Point(154, 1020);
+            this.button75.Location = new System.Drawing.Point(154, 924);
             this.button75.Name = "button75";
             this.button75.Size = new System.Drawing.Size(50, 72);
             this.button75.TabIndex = 27;
@@ -2326,7 +2226,7 @@ namespace ElectricProject
             this.button76.ForeColor = System.Drawing.Color.Silver;
             this.button76.Image = global::ElectricProject.Properties.Resources._26_CauChi;
             this.button76.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button76.Location = new System.Drawing.Point(83, 861);
+            this.button76.Location = new System.Drawing.Point(83, 765);
             this.button76.Name = "button76";
             this.button76.Size = new System.Drawing.Size(50, 72);
             this.button76.TabIndex = 26;
@@ -2347,7 +2247,7 @@ namespace ElectricProject
             this.button77.ForeColor = System.Drawing.Color.Silver;
             this.button77.Image = global::ElectricProject.Properties.Resources._25_RoleBaoVeMatPha;
             this.button77.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button77.Location = new System.Drawing.Point(15, 861);
+            this.button77.Location = new System.Drawing.Point(15, 765);
             this.button77.Name = "button77";
             this.button77.Size = new System.Drawing.Size(50, 72);
             this.button77.TabIndex = 25;
@@ -2368,7 +2268,7 @@ namespace ElectricProject
             this.button53.ForeColor = System.Drawing.Color.Silver;
             this.button53.Image = global::ElectricProject.Properties.Resources._24_RoleBaoVeQuaDong;
             this.button53.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button53.Location = new System.Drawing.Point(151, 860);
+            this.button53.Location = new System.Drawing.Point(151, 764);
             this.button53.Name = "button53";
             this.button53.Size = new System.Drawing.Size(50, 72);
             this.button53.TabIndex = 24;
@@ -2389,7 +2289,7 @@ namespace ElectricProject
             this.button73.ForeColor = System.Drawing.Color.Silver;
             this.button73.Image = global::ElectricProject.Properties.Resources._23_RoleNhiet;
             this.button73.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button73.Location = new System.Drawing.Point(83, 790);
+            this.button73.Location = new System.Drawing.Point(83, 694);
             this.button73.Name = "button73";
             this.button73.Size = new System.Drawing.Size(50, 72);
             this.button73.TabIndex = 23;
@@ -2410,7 +2310,7 @@ namespace ElectricProject
             this.button74.ForeColor = System.Drawing.Color.Silver;
             this.button74.Image = global::ElectricProject.Properties.Resources._22_Role;
             this.button74.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button74.Location = new System.Drawing.Point(15, 790);
+            this.button74.Location = new System.Drawing.Point(15, 694);
             this.button74.Name = "button74";
             this.button74.Size = new System.Drawing.Size(50, 72);
             this.button74.TabIndex = 22;
@@ -2431,7 +2331,7 @@ namespace ElectricProject
             this.button25.ForeColor = System.Drawing.Color.Silver;
             this.button25.Image = global::ElectricProject.Properties.Resources._21_RoleThoiGian;
             this.button25.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button25.Location = new System.Drawing.Point(151, 790);
+            this.button25.Location = new System.Drawing.Point(151, 694);
             this.button25.Name = "button25";
             this.button25.Size = new System.Drawing.Size(50, 72);
             this.button25.TabIndex = 21;
@@ -2484,7 +2384,7 @@ namespace ElectricProject
             this.button26.ForeColor = System.Drawing.Color.Silver;
             this.button26.Image = global::ElectricProject.Properties.Resources._20_RoleBaoVeDienAp;
             this.button26.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button26.Location = new System.Drawing.Point(12, 925);
+            this.button26.Location = new System.Drawing.Point(12, 829);
             this.button26.Name = "button26";
             this.button26.Size = new System.Drawing.Size(50, 72);
             this.button26.TabIndex = 20;
@@ -2547,7 +2447,7 @@ namespace ElectricProject
             this.button27.ForeColor = System.Drawing.Color.Silver;
             this.button27.Image = global::ElectricProject.Properties.Resources._17_Aptomat1Pha1;
             this.button27.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button27.Location = new System.Drawing.Point(15, 696);
+            this.button27.Location = new System.Drawing.Point(15, 600);
             this.button27.Name = "button27";
             this.button27.Size = new System.Drawing.Size(50, 72);
             this.button27.TabIndex = 19;
@@ -2589,7 +2489,7 @@ namespace ElectricProject
             this.button22.ForeColor = System.Drawing.Color.Silver;
             this.button22.Image = global::ElectricProject.Properties.Resources._18_role_bao_ve_dien_ap1;
             this.button22.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button22.Location = new System.Drawing.Point(148, 696);
+            this.button22.Location = new System.Drawing.Point(148, 600);
             this.button22.Name = "button22";
             this.button22.Size = new System.Drawing.Size(50, 72);
             this.button22.TabIndex = 18;
@@ -2652,7 +2552,7 @@ namespace ElectricProject
             this.button23.ForeColor = System.Drawing.Color.Silver;
             this.button23.Image = global::ElectricProject.Properties.Resources._19_Aptomat3Pha1;
             this.button23.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button23.Location = new System.Drawing.Point(80, 696);
+            this.button23.Location = new System.Drawing.Point(80, 600);
             this.button23.Name = "button23";
             this.button23.Size = new System.Drawing.Size(50, 72);
             this.button23.TabIndex = 17;
@@ -2681,26 +2581,6 @@ namespace ElectricProject
             this.toolTip1.SetToolTip(this.button11, "CONTACTOR");
             this.button11.UseVisualStyleBackColor = false;
             this.button11.Click += new System.EventHandler(this.button11_Click);
-            // 
-            // button24
-            // 
-            this.button24.BackColor = System.Drawing.Color.Transparent;
-            this.button24.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button24.FlatAppearance.BorderSize = 0;
-            this.button24.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button24.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button24.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button24.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button24.ForeColor = System.Drawing.Color.Silver;
-            this.button24.Image = global::ElectricProject.Properties.Resources._16_MayCat;
-            this.button24.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button24.Location = new System.Drawing.Point(15, 597);
-            this.button24.Name = "button24";
-            this.button24.Size = new System.Drawing.Size(50, 72);
-            this.button24.TabIndex = 16;
-            this.button24.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.toolTip1.SetToolTip(this.button24, "MÁY CẮT");
-            this.button24.UseVisualStyleBackColor = false;
             // 
             // button9
             // 
@@ -2767,170 +2647,31 @@ namespace ElectricProject
             // 
             // panel_lythuyet
             // 
-            this.panel_lythuyet.Controls.Add(this.panel_SubmenuDoccument2);
-            this.panel_lythuyet.Controls.Add(this.btn_Lythuyetdien2);
-            this.panel_lythuyet.Controls.Add(this.panel_SubmenuDoccument1);
-            this.panel_lythuyet.Controls.Add(this.btn_Lythuyetdien1);
+            this.panel_lythuyet.Controls.Add(this.treeView1);
             this.panel_lythuyet.Controls.Add(this.label2);
             this.panel_lythuyet.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel_lythuyet.Location = new System.Drawing.Point(0, 0);
             this.panel_lythuyet.Name = "panel_lythuyet";
-            this.panel_lythuyet.Size = new System.Drawing.Size(226, 409);
+            this.panel_lythuyet.Size = new System.Drawing.Size(226, 673);
             this.panel_lythuyet.TabIndex = 2;
             this.panel_lythuyet.Visible = false;
             // 
-            // panel_SubmenuDoccument2
+            // treeView1
             // 
-            this.panel_SubmenuDoccument2.Controls.Add(this.button30);
-            this.panel_SubmenuDoccument2.Controls.Add(this.button31);
-            this.panel_SubmenuDoccument2.Controls.Add(this.button32);
-            this.panel_SubmenuDoccument2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel_SubmenuDoccument2.Location = new System.Drawing.Point(0, 236);
-            this.panel_SubmenuDoccument2.Name = "panel_SubmenuDoccument2";
-            this.panel_SubmenuDoccument2.Size = new System.Drawing.Size(226, 114);
-            this.panel_SubmenuDoccument2.TabIndex = 5;
-            // 
-            // button30
-            // 
-            this.button30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button30.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button30.FlatAppearance.BorderSize = 0;
-            this.button30.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button30.Font = new System.Drawing.Font("Segoe UI Semibold", 11F, System.Drawing.FontStyle.Bold);
-            this.button30.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button30.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button30.Location = new System.Drawing.Point(0, 70);
-            this.button30.Name = "button30";
-            this.button30.Size = new System.Drawing.Size(226, 38);
-            this.button30.TabIndex = 11;
-            this.button30.Text = "Phần 3";
-            this.button30.UseVisualStyleBackColor = false;
-            // 
-            // button31
-            // 
-            this.button31.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button31.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button31.FlatAppearance.BorderSize = 0;
-            this.button31.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button31.Font = new System.Drawing.Font("Segoe UI Semibold", 11F, System.Drawing.FontStyle.Bold);
-            this.button31.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button31.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button31.Location = new System.Drawing.Point(0, 35);
-            this.button31.Name = "button31";
-            this.button31.Size = new System.Drawing.Size(226, 35);
-            this.button31.TabIndex = 10;
-            this.button31.Text = "Phần 2";
-            this.button31.UseVisualStyleBackColor = false;
-            // 
-            // button32
-            // 
-            this.button32.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button32.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button32.FlatAppearance.BorderSize = 0;
-            this.button32.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button32.Font = new System.Drawing.Font("Segoe UI Semibold", 11F, System.Drawing.FontStyle.Bold);
-            this.button32.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button32.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button32.Location = new System.Drawing.Point(0, 0);
-            this.button32.Name = "button32";
-            this.button32.Size = new System.Drawing.Size(226, 35);
-            this.button32.TabIndex = 9;
-            this.button32.Text = "Phần 1";
-            this.button32.UseVisualStyleBackColor = false;
-            // 
-            // btn_Lythuyetdien2
-            // 
-            this.btn_Lythuyetdien2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btn_Lythuyetdien2.FlatAppearance.BorderSize = 0;
-            this.btn_Lythuyetdien2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_Lythuyetdien2.Font = new System.Drawing.Font("Segoe UI Semibold", 11F, System.Drawing.FontStyle.Bold);
-            this.btn_Lythuyetdien2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btn_Lythuyetdien2.Image = global::ElectricProject.Properties.Resources.electric2;
-            this.btn_Lythuyetdien2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_Lythuyetdien2.Location = new System.Drawing.Point(0, 189);
-            this.btn_Lythuyetdien2.Name = "btn_Lythuyetdien2";
-            this.btn_Lythuyetdien2.Size = new System.Drawing.Size(226, 47);
-            this.btn_Lythuyetdien2.TabIndex = 3;
-            this.btn_Lythuyetdien2.Text = "Lý thuyết điện 2";
-            this.btn_Lythuyetdien2.UseVisualStyleBackColor = true;
-            this.btn_Lythuyetdien2.Click += new System.EventHandler(this.btn_Lythuyetdien2_Click);
-            // 
-            // panel_SubmenuDoccument1
-            // 
-            this.panel_SubmenuDoccument1.Controls.Add(this.button6);
-            this.panel_SubmenuDoccument1.Controls.Add(this.button5);
-            this.panel_SubmenuDoccument1.Controls.Add(this.button4);
-            this.panel_SubmenuDoccument1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel_SubmenuDoccument1.Location = new System.Drawing.Point(0, 86);
-            this.panel_SubmenuDoccument1.Name = "panel_SubmenuDoccument1";
-            this.panel_SubmenuDoccument1.Size = new System.Drawing.Size(226, 103);
-            this.panel_SubmenuDoccument1.TabIndex = 4;
-            // 
-            // button6
-            // 
-            this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button6.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button6.FlatAppearance.BorderSize = 0;
-            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button6.Font = new System.Drawing.Font("Segoe UI Semibold", 11F, System.Drawing.FontStyle.Bold);
-            this.button6.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button6.Location = new System.Drawing.Point(0, 70);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(226, 33);
-            this.button6.TabIndex = 8;
-            this.button6.Text = "Phần 3";
-            this.button6.UseVisualStyleBackColor = false;
-            // 
-            // button5
-            // 
-            this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button5.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button5.FlatAppearance.BorderSize = 0;
-            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.Font = new System.Drawing.Font("Segoe UI Semibold", 11F, System.Drawing.FontStyle.Bold);
-            this.button5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button5.Location = new System.Drawing.Point(0, 35);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(226, 35);
-            this.button5.TabIndex = 7;
-            this.button5.Text = "Phần 2";
-            this.button5.UseVisualStyleBackColor = false;
-            // 
-            // button4
-            // 
-            this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
-            this.button4.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button4.FlatAppearance.BorderSize = 0;
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.Font = new System.Drawing.Font("Segoe UI Semibold", 11F, System.Drawing.FontStyle.Bold);
-            this.button4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button4.Location = new System.Drawing.Point(0, 0);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(226, 35);
-            this.button4.TabIndex = 6;
-            this.button4.Text = "Phần 1";
-            this.button4.UseVisualStyleBackColor = false;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
-            // 
-            // btn_Lythuyetdien1
-            // 
-            this.btn_Lythuyetdien1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btn_Lythuyetdien1.FlatAppearance.BorderSize = 0;
-            this.btn_Lythuyetdien1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_Lythuyetdien1.Font = new System.Drawing.Font("Segoe UI Semibold", 11F, System.Drawing.FontStyle.Bold);
-            this.btn_Lythuyetdien1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btn_Lythuyetdien1.Image = global::ElectricProject.Properties.Resources.electric;
-            this.btn_Lythuyetdien1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_Lythuyetdien1.Location = new System.Drawing.Point(0, 38);
-            this.btn_Lythuyetdien1.Name = "btn_Lythuyetdien1";
-            this.btn_Lythuyetdien1.Size = new System.Drawing.Size(226, 48);
-            this.btn_Lythuyetdien1.TabIndex = 2;
-            this.btn_Lythuyetdien1.Text = "Lý thuyết điện 1";
-            this.btn_Lythuyetdien1.UseVisualStyleBackColor = true;
-            this.btn_Lythuyetdien1.Click += new System.EventHandler(this.btn_Lythuyetdien1_Click);
+            this.treeView1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(39)))));
+            this.treeView1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.treeView1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.treeView1.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.treeView1.ForeColor = System.Drawing.Color.White;
+            this.treeView1.ImageIndex = 0;
+            this.treeView1.ImageList = this.imageList1;
+            this.treeView1.Location = new System.Drawing.Point(0, 38);
+            this.treeView1.Name = "treeView1";
+            this.treeView1.SelectedImageKey = "file_16px.png";
+            this.treeView1.Size = new System.Drawing.Size(226, 627);
+            this.treeView1.TabIndex = 63;
+            this.toolTip1.SetToolTip(this.treeView1, "Thư viện lí thuyết điện");
+            this.treeView1.NodeMouseDoubleClick += new System.Windows.Forms.TreeNodeMouseClickEventHandler(this.treeView1_NodeMouseDoubleClick);
             // 
             // label2
             // 
@@ -2978,9 +2719,9 @@ namespace ElectricProject
             this.workpanel.Controls.Add(this.panel_work3d);
             this.workpanel.Controls.Add(this.panel_work2d);
             this.workpanel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.workpanel.Location = new System.Drawing.Point(293, 132);
+            this.workpanel.Location = new System.Drawing.Point(293, 135);
             this.workpanel.Name = "workpanel";
-            this.workpanel.Size = new System.Drawing.Size(1093, 656);
+            this.workpanel.Size = new System.Drawing.Size(1093, 653);
             this.workpanel.TabIndex = 5;
             // 
             // panel_work_baigiang
@@ -3047,7 +2788,7 @@ namespace ElectricProject
             // 
             // diagramView1
             // 
-            this.diagramView1.Behavior = MindFusion.Diagramming.Behavior.DrawLinks;
+            this.diagramView1.Behavior = MindFusion.Diagramming.Behavior.DoNothing;
             this.diagramView1.Diagram = this.diagram1;
             this.diagramView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.diagramView1.LicenseKey = null;
@@ -3111,56 +2852,14 @@ namespace ElectricProject
             this.buttonUndo.UseVisualStyleBackColor = false;
             this.buttonUndo.Click += new System.EventHandler(this.buttonUndo_Click);
             // 
-            // panel_Lineproperties
-            // 
-            this.panel_Lineproperties.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(39)))));
-            this.panel_Lineproperties.Controls.Add(this.panel_LineProperties1);
-            this.panel_Lineproperties.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel_Lineproperties.Location = new System.Drawing.Point(293, 86);
-            this.panel_Lineproperties.Name = "panel_Lineproperties";
-            this.panel_Lineproperties.Size = new System.Drawing.Size(1093, 46);
-            this.panel_Lineproperties.TabIndex = 3;
-            this.panel_Lineproperties.Visible = false;
-            // 
-            // panel_LineProperties1
-            // 
-            this.panel_LineProperties1.Controls.Add(this.buttonRedo);
-            this.panel_LineProperties1.Controls.Add(this.buttonUndo);
-            this.panel_LineProperties1.Controls.Add(this.tb_NameDocument);
-            this.panel_LineProperties1.Controls.Add(this.labelZoom);
-            this.panel_LineProperties1.Controls.Add(this.btn_ZoomIn);
-            this.panel_LineProperties1.Controls.Add(this.btn_ZoomOut);
-            this.panel_LineProperties1.Controls.Add(this.btn_Grid);
-            this.panel_LineProperties1.Controls.Add(this.comboBox2);
-            this.panel_LineProperties1.Controls.Add(this.label8);
-            this.panel_LineProperties1.Controls.Add(this.TextboxLine);
-            this.panel_LineProperties1.Controls.Add(this.TextboxWidth);
-            this.panel_LineProperties1.Controls.Add(this.label6);
-            this.panel_LineProperties1.Controls.Add(this.label7);
-            this.panel_LineProperties1.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel_LineProperties1.Location = new System.Drawing.Point(0, 0);
-            this.panel_LineProperties1.Name = "panel_LineProperties1";
-            this.panel_LineProperties1.Size = new System.Drawing.Size(830, 46);
-            this.panel_LineProperties1.TabIndex = 7;
-            // 
-            // labelZoom
-            // 
-            this.labelZoom.AutoSize = true;
-            this.labelZoom.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelZoom.ForeColor = System.Drawing.Color.Silver;
-            this.labelZoom.Location = new System.Drawing.Point(755, 18);
-            this.labelZoom.Name = "labelZoom";
-            this.labelZoom.Size = new System.Drawing.Size(44, 17);
-            this.labelZoom.TabIndex = 12;
-            this.labelZoom.Text = "100%";
-            // 
             // btn_ZoomIn
             // 
             this.btn_ZoomIn.Image = global::ElectricProject.Properties.Resources.ZOOM_OUT;
-            this.btn_ZoomIn.Location = new System.Drawing.Point(730, 15);
+            this.btn_ZoomIn.Location = new System.Drawing.Point(299, 16);
             this.btn_ZoomIn.Name = "btn_ZoomIn";
             this.btn_ZoomIn.Size = new System.Drawing.Size(23, 22);
             this.btn_ZoomIn.TabIndex = 11;
+            this.toolTip1.SetToolTip(this.btn_ZoomIn, "Thu nhỏ");
             this.btn_ZoomIn.UseVisualStyleBackColor = true;
             this.btn_ZoomIn.Click += new System.EventHandler(this.btn_ZoomIn_Click);
             // 
@@ -3168,20 +2867,22 @@ namespace ElectricProject
             // 
             this.btn_ZoomOut.ForeColor = System.Drawing.Color.Moccasin;
             this.btn_ZoomOut.Image = global::ElectricProject.Properties.Resources.ZOOM_IN;
-            this.btn_ZoomOut.Location = new System.Drawing.Point(800, 15);
+            this.btn_ZoomOut.Location = new System.Drawing.Point(369, 16);
             this.btn_ZoomOut.Name = "btn_ZoomOut";
             this.btn_ZoomOut.Size = new System.Drawing.Size(23, 22);
             this.btn_ZoomOut.TabIndex = 10;
+            this.toolTip1.SetToolTip(this.btn_ZoomOut, "Phóng to");
             this.btn_ZoomOut.UseVisualStyleBackColor = true;
             this.btn_ZoomOut.Click += new System.EventHandler(this.btn_ZoomOut_Click);
             // 
             // btn_Grid
             // 
-            this.btn_Grid.Location = new System.Drawing.Point(688, 16);
+            this.btn_Grid.Location = new System.Drawing.Point(262, 15);
             this.btn_Grid.Name = "btn_Grid";
             this.btn_Grid.Size = new System.Drawing.Size(23, 22);
             this.btn_Grid.TabIndex = 9;
             this.btn_Grid.Text = "Lưới";
+            this.toolTip1.SetToolTip(this.btn_Grid, "Lưới");
             this.btn_Grid.UseVisualStyleBackColor = true;
             this.btn_Grid.Click += new System.EventHandler(this.btn_Grid_Click);
             // 
@@ -3194,31 +2895,22 @@ namespace ElectricProject
             "RED",
             "BLUE",
             "YELLOW"});
-            this.comboBox2.Location = new System.Drawing.Point(601, 15);
+            this.comboBox2.Location = new System.Drawing.Point(208, 14);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(71, 21);
+            this.comboBox2.Size = new System.Drawing.Size(48, 21);
             this.comboBox2.TabIndex = 5;
+            this.toolTip1.SetToolTip(this.comboBox2, "Màu sắc");
             this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.ForeColor = System.Drawing.Color.Silver;
-            this.label8.Location = new System.Drawing.Point(539, 16);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(65, 17);
-            this.label8.TabIndex = 6;
-            this.label8.Text = "Màu sắc:";
             // 
             // TextboxLine
             // 
             this.TextboxLine.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
             this.TextboxLine.ForeColor = System.Drawing.Color.White;
-            this.TextboxLine.Location = new System.Drawing.Point(301, 14);
+            this.TextboxLine.Location = new System.Drawing.Point(103, 14);
             this.TextboxLine.Name = "TextboxLine";
             this.TextboxLine.Size = new System.Drawing.Size(66, 20);
             this.TextboxLine.TabIndex = 1;
+            this.toolTip1.SetToolTip(this.TextboxLine, "Nội dung");
             this.TextboxLine.Click += new System.EventHandler(this.TextboxLine_Click);
             this.TextboxLine.Leave += new System.EventHandler(this.TextboxLine_Leave);
             // 
@@ -3226,33 +2918,64 @@ namespace ElectricProject
             // 
             this.TextboxWidth.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
             this.TextboxWidth.ForeColor = System.Drawing.Color.White;
-            this.TextboxWidth.Location = new System.Drawing.Point(459, 14);
+            this.TextboxWidth.Location = new System.Drawing.Point(175, 14);
             this.TextboxWidth.Name = "TextboxWidth";
-            this.TextboxWidth.Size = new System.Drawing.Size(66, 20);
+            this.TextboxWidth.Size = new System.Drawing.Size(27, 20);
             this.TextboxWidth.TabIndex = 4;
+            this.toolTip1.SetToolTip(this.TextboxWidth, "Kích thước");
             this.TextboxWidth.Leave += new System.EventHandler(this.TextboxWidth_Leave);
             // 
-            // label6
+            // button24
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.Color.Silver;
-            this.label6.Location = new System.Drawing.Point(226, 15);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(69, 17);
-            this.label6.TabIndex = 2;
-            this.label6.Text = "Nội dung:";
+            this.button24.Location = new System.Drawing.Point(411, 16);
+            this.button24.Name = "button24";
+            this.button24.Size = new System.Drawing.Size(23, 22);
+            this.button24.TabIndex = 15;
+            this.button24.Text = "Lưới";
+            this.toolTip1.SetToolTip(this.button24, "Vẽ dây");
+            this.button24.UseVisualStyleBackColor = true;
             // 
-            // label7
+            // panel_Lineproperties
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.Color.Silver;
-            this.label7.Location = new System.Drawing.Point(373, 16);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(81, 17);
-            this.label7.TabIndex = 3;
-            this.label7.Text = "Chiều rộng:";
+            this.panel_Lineproperties.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(39)))));
+            this.panel_Lineproperties.Controls.Add(this.btn_Export);
+            this.panel_Lineproperties.Controls.Add(this.btn_Save);
+            this.panel_Lineproperties.Controls.Add(this.panel_LineProperties1);
+            this.panel_Lineproperties.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel_Lineproperties.Location = new System.Drawing.Point(293, 66);
+            this.panel_Lineproperties.Name = "panel_Lineproperties";
+            this.panel_Lineproperties.Size = new System.Drawing.Size(1093, 69);
+            this.panel_Lineproperties.TabIndex = 3;
+            this.panel_Lineproperties.Visible = false;
+            // 
+            // panel_LineProperties1
+            // 
+            this.panel_LineProperties1.Controls.Add(this.button24);
+            this.panel_LineProperties1.Controls.Add(this.buttonRedo);
+            this.panel_LineProperties1.Controls.Add(this.buttonUndo);
+            this.panel_LineProperties1.Controls.Add(this.labelZoom);
+            this.panel_LineProperties1.Controls.Add(this.btn_ZoomIn);
+            this.panel_LineProperties1.Controls.Add(this.btn_ZoomOut);
+            this.panel_LineProperties1.Controls.Add(this.btn_Grid);
+            this.panel_LineProperties1.Controls.Add(this.comboBox2);
+            this.panel_LineProperties1.Controls.Add(this.TextboxLine);
+            this.panel_LineProperties1.Controls.Add(this.TextboxWidth);
+            this.panel_LineProperties1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel_LineProperties1.Location = new System.Drawing.Point(0, 0);
+            this.panel_LineProperties1.Name = "panel_LineProperties1";
+            this.panel_LineProperties1.Size = new System.Drawing.Size(830, 69);
+            this.panel_LineProperties1.TabIndex = 7;
+            // 
+            // labelZoom
+            // 
+            this.labelZoom.AutoSize = true;
+            this.labelZoom.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelZoom.ForeColor = System.Drawing.Color.Silver;
+            this.labelZoom.Location = new System.Drawing.Point(324, 19);
+            this.labelZoom.Name = "labelZoom";
+            this.labelZoom.Size = new System.Drawing.Size(44, 17);
+            this.labelZoom.TabIndex = 12;
+            this.labelZoom.Text = "100%";
             // 
             // Form1
             // 
@@ -3280,7 +3003,7 @@ namespace ElectricProject
             this.menuStrip1.PerformLayout();
             this.panel_Sidebar.ResumeLayout(false);
             this.panel_Home.ResumeLayout(false);
-            this.panel_Simulate.ResumeLayout(false);
+            this.panel_Home.PerformLayout();
             this.panel_Menu.ResumeLayout(false);
             this.panel_BaiGiang.ResumeLayout(false);
             this.panel_3D.ResumeLayout(false);
@@ -3290,8 +3013,6 @@ namespace ElectricProject
             this.panel_Thuchanh.ResumeLayout(false);
             this.panel_Thuchanh.PerformLayout();
             this.panel_lythuyet.ResumeLayout(false);
-            this.panel_SubmenuDoccument2.ResumeLayout(false);
-            this.panel_SubmenuDoccument1.ResumeLayout(false);
             this.workpanel.ResumeLayout(false);
             this.panel_work_baigiang.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
@@ -3332,17 +3053,7 @@ namespace ElectricProject
         private System.Windows.Forms.Button btn_trangchu;
         private System.Windows.Forms.Button btn_Save;
         private System.Windows.Forms.Panel panel_lythuyet;
-        private System.Windows.Forms.Button btn_Lythuyetdien1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Panel panel_SubmenuDoccument1;
-        private System.Windows.Forms.Button btn_Lythuyetdien2;
-        private System.Windows.Forms.Panel panel_SubmenuDoccument2;
-        private System.Windows.Forms.Button button30;
-        private System.Windows.Forms.Button button31;
-        private System.Windows.Forms.Button button32;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Panel panel_2D;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Panel panel_3D;
@@ -3383,14 +3094,12 @@ namespace ElectricProject
         private System.Windows.Forms.Button button17;
         private System.Windows.Forms.Button button23;
         private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Button button24;
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Button button21;
         private System.Windows.Forms.Button button19;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label10;
@@ -3415,11 +3124,8 @@ namespace ElectricProject
         private System.Windows.Forms.Button btn_ZoomOut;
         private System.Windows.Forms.Button btn_Grid;
         private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox TextboxLine;
         private System.Windows.Forms.TextBox TextboxWidth;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label7;
         private System.Windows.Forms.ToolStripMenuItem InfoToolStripMenuItem;
         private System.Windows.Forms.Label label35;
         private System.Windows.Forms.Button button62;
@@ -3431,7 +3137,6 @@ namespace ElectricProject
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Label label29;
-        private System.Windows.Forms.Label label30;
         private System.Windows.Forms.Label label31;
         private System.Windows.Forms.Label label32;
         private System.Windows.Forms.Label label33;
@@ -3457,14 +3162,12 @@ namespace ElectricProject
         private System.Windows.Forms.Button button66;
         private System.Windows.Forms.Button button67;
         private System.Windows.Forms.Button button68;
-        private System.Windows.Forms.Button button69;
         private System.Windows.Forms.Button button70;
         private System.Windows.Forms.Button button71;
         private System.Windows.Forms.Button button72;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.Label label23;
@@ -3490,10 +3193,11 @@ namespace ElectricProject
         private System.Windows.Forms.Button button40;
         private System.Windows.Forms.Button button41;
         private System.Windows.Forms.Button button42;
-        private System.Windows.Forms.Button button43;
         private System.Windows.Forms.Button button44;
         private System.Windows.Forms.Button button45;
         private System.Windows.Forms.Button button46;
+        private System.Windows.Forms.Button button24;
+        private System.Windows.Forms.TreeView treeView1;
     }
 }
 

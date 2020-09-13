@@ -29,7 +29,7 @@ namespace ElectricProject
                     Application.Run(new Info());
                 }
             }
-            else Application.Run(new Info());
+            else Application.Run(new Form1());
 
         }
 
