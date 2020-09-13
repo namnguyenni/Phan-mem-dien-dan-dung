@@ -1111,7 +1111,7 @@ namespace ElectricProject
             this.button20.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
             this.button20.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button20.ForeColor = System.Drawing.Color.Silver;
-            this.button20.Image = global::ElectricProject.Properties.Resources._22_Role;
+            this.button20.Image = global::ElectricProject.Properties.Resources._22_Role1;
             this.button20.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button20.Location = new System.Drawing.Point(24, 706);
             this.button20.Name = "button20";
@@ -1180,6 +1180,7 @@ namespace ElectricProject
             this.button33.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.toolTip1.SetToolTip(this.button33, "ROLE BẢO VỆ ĐIỆN ÁP");
             this.button33.UseVisualStyleBackColor = false;
+            this.button33.Click += new System.EventHandler(this.button33_Click);
             // 
             // button34
             // 
@@ -1582,6 +1583,7 @@ namespace ElectricProject
             this.button79.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.toolTip1.SetToolTip(this.button79, "MÁY BIẾN ÁP 3 PHA");
             this.button79.UseVisualStyleBackColor = false;
+            this.button79.Click += new System.EventHandler(this.button79_Click);
             // 
             // button80
             // 
@@ -1602,6 +1604,7 @@ namespace ElectricProject
             this.button80.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.toolTip1.SetToolTip(this.button80, "MÁY BIẾN ÁP CẢM ỨNG");
             this.button80.UseVisualStyleBackColor = false;
+            this.button80.Click += new System.EventHandler(this.button80_Click);
             // 
             // button75
             // 
@@ -1622,6 +1625,7 @@ namespace ElectricProject
             this.button75.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.toolTip1.SetToolTip(this.button75, "BIẾN ÁP TỰ NGÃU");
             this.button75.UseVisualStyleBackColor = false;
+            this.button75.Click += new System.EventHandler(this.button75_Click);
             // 
             // button76
             // 
@@ -1717,7 +1721,7 @@ namespace ElectricProject
             this.button74.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
             this.button74.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button74.ForeColor = System.Drawing.Color.Silver;
-            this.button74.Image = global::ElectricProject.Properties.Resources._22_Role;
+            this.button74.Image = global::ElectricProject.Properties.Resources._22_Role1;
             this.button74.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button74.Location = new System.Drawing.Point(15, 694);
             this.button74.Name = "button74";
@@ -2197,7 +2201,7 @@ namespace ElectricProject
             // 
             // diagramView1
             // 
-            this.diagramView1.Behavior = MindFusion.Diagramming.Behavior.DoNothing;
+            this.diagramView1.Behavior = MindFusion.Diagramming.Behavior.Modify;
             this.diagramView1.Diagram = this.diagram1;
             this.diagramView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.diagramView1.LicenseKey = null;
@@ -2343,6 +2347,7 @@ namespace ElectricProject
             this.button24.Text = "Lưới";
             this.toolTip1.SetToolTip(this.button24, "Vẽ dây");
             this.button24.UseVisualStyleBackColor = true;
+            this.button24.Click += new System.EventHandler(this.button24_Click);
             // 
             // panel_Lineproperties
             // 

@@ -242,7 +242,7 @@ namespace ElectricProject
         }
         private void LoadDocument3D()
         {
-            string txtDirectoryPath = Environment.CurrentDirectory + @"\Thư viện mô hình 3D";
+            string txtDirectoryPath = System.IO.Path.GetDirectoryName(Application.ExecutablePath) + @"\Thư viện mô hình 3D";
             treeView2.Nodes.Clear();
             toolTip1.ShowAlways = true;
             if (txtDirectoryPath != "" && Directory.Exists(txtDirectoryPath))
@@ -253,7 +253,7 @@ namespace ElectricProject
 
         private void LoadDocument()
         {
-            string txtDirectoryPath = Environment.CurrentDirectory + @"\Thư viện lí thuyết điện";
+            string txtDirectoryPath = System.IO.Path.GetDirectoryName(Application.ExecutablePath) + @"\Thư viện lí thuyết điện";
             treeView1.Nodes.Clear();
             toolTip1.ShowAlways = true;
             if (txtDirectoryPath != "" && Directory.Exists(txtDirectoryPath))
@@ -790,37 +790,279 @@ namespace ElectricProject
 
         private void button74_Click(object sender, EventArgs e)
         {
+            Device device = new Device(8);
+            ShapeNode node = diagram1.Factory.CreateShapeNode(10, 10, 40, 56);
 
+            device.SetNode(node);
+
+            countDevice += 1;
+            node.Id = "" + countDevice;
+            node.Image = Properties.Resources._22_Role;
+            node.Transparent = true;
+            node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+
+
+            device.PortCount = 4;
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+
+
+            AllDevice.Add(device);
         }
 
         private void button73_Click(object sender, EventArgs e)
         {
+            Device device = new Device(8);
+            ShapeNode node = diagram1.Factory.CreateShapeNode(10, 10, 40, 56);
 
+            device.SetNode(node);
+
+            countDevice += 1;
+            node.Id = "" + countDevice;
+            node.Image = Properties.Resources._15_RoLE_NHIeT;
+            node.Transparent = true;
+            node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+
+
+            device.PortCount = 4;
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+
+
+            AllDevice.Add(device);
         }
 
         private void button25_Click(object sender, EventArgs e)
         {
+            Device device = new Device(8);
+            ShapeNode node = diagram1.Factory.CreateShapeNode(10, 10, 40, 56);
 
+            device.SetNode(node);
+
+            countDevice += 1;
+            node.Id = "" + countDevice;
+            node.Image = Properties.Resources._12_ro_le_thoi_gian;
+            node.Transparent = true;
+            node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+
+
+            device.PortCount = 4;
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+
+
+            AllDevice.Add(device);
+        }
+
+        private void button80_Click(object sender, EventArgs e)
+        {
+            Device device = new Device(10);
+            ShapeNode node = diagram1.Factory.CreateShapeNode(10, 10, 40, 40);
+
+            device.SetNode(node);
+
+            countDevice += 1;
+            node.Id = "" + countDevice;
+            node.Image = Properties.Resources._28_MayBienApCamUng;
+            node.Transparent = true;
+            node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+
+
+            device.PortCount = 4;
+            device.port.Add(new PointF(0.1f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.55f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.1f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.675f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.92f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.675f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.92f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.81f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+
+            AllDevice.Add(device);
+        }
+
+        private void button79_Click(object sender, EventArgs e)
+        {
+            Device device = new Device(10);
+            ShapeNode node = diagram1.Factory.CreateShapeNode(10, 10, 40, 40);
+
+            device.SetNode(node);
+
+            countDevice += 1;
+            node.Id = "" + countDevice;
+            node.Image = Properties.Resources._29_MayBienAp3Pha;
+            node.Transparent = true;
+            node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+
+
+            device.PortCount = 4;
+            device.port.Add(new PointF(0.1f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.55f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.1f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.675f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.92f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.675f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.92f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.81f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+
+            AllDevice.Add(device);
+        }
+
+        private void button75_Click(object sender, EventArgs e)
+        {
+            Device device = new Device(10);
+            ShapeNode node = diagram1.Factory.CreateShapeNode(10, 10, 40, 40);
+
+            device.SetNode(node);
+
+            countDevice += 1;
+            node.Id = "" + countDevice;
+            node.Image = Properties.Resources._27_BienApTuNgau;
+            node.Transparent = true;
+            node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+
+
+            device.PortCount = 4;
+            device.port.Add(new PointF(0.1f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.55f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.1f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.675f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.92f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.675f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.92f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.81f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+
+            AllDevice.Add(device);
         }
 
         private void button77_Click(object sender, EventArgs e)
         {
+            Device device = new Device(8);
+            ShapeNode node = diagram1.Factory.CreateShapeNode(10, 10, 40, 56);
 
+            device.SetNode(node);
+
+            countDevice += 1;
+            node.Id = "" + countDevice;
+            node.Image = Properties.Resources._17_role_bao_ve_mat_pha;
+            node.Transparent = true;
+            node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+
+
+            device.PortCount = 4;
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+
+
+            AllDevice.Add(device);
         }
 
         private void button76_Click(object sender, EventArgs e)
         {
+            Device device = new Device(8);
+            ShapeNode node = diagram1.Factory.CreateShapeNode(10, 10, 40, 56);
 
+            device.SetNode(node);
+
+            countDevice += 1;
+            node.Id = "" + countDevice;
+            node.Image = Properties.Resources._21_CAU_CHI;
+            node.Transparent = true;
+            node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+
+
+            device.PortCount = 4;
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+
+
+            AllDevice.Add(device);
         }
 
         private void button53_Click_1(object sender, EventArgs e)
         {
+            Device device = new Device(8);
+            ShapeNode node = diagram1.Factory.CreateShapeNode(10, 10, 40, 56);
 
+            device.SetNode(node);
+
+            countDevice += 1;
+            node.Id = "" + countDevice;
+            node.Image = Properties.Resources._16_role_bao_ve_qua_dong;
+            node.Transparent = true;
+            node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+
+
+            device.PortCount = 4;
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+
+
+            AllDevice.Add(device);
         }
 
         private void button26_Click(object sender, EventArgs e)
         {
+            Device device = new Device(8);
+            ShapeNode node = diagram1.Factory.CreateShapeNode(10, 10, 40, 56);
 
+            device.SetNode(node);
+
+            countDevice += 1;
+            node.Id = "" + countDevice;
+            node.Image = Properties.Resources._18_role_bao_ve_dien_ap;
+            node.Transparent = true;
+            node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+
+
+            device.PortCount = 4;
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+
+
+            AllDevice.Add(device);
         }
 
 
@@ -969,6 +1211,35 @@ namespace ElectricProject
             //node.Image = Properties.Resources._18_role_bao_ve_dien_ap;
             //node.Transparent = true;
             //node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+        }
+
+        private void button33_Click(object sender, EventArgs e)
+        {
+            Device device = new Device(8);
+            ShapeNode node = diagram1.Factory.CreateShapeNode(10, 10, 40, 56);
+
+            device.SetNode(node);
+
+            countDevice += 1;
+            node.Id = "" + countDevice;
+            node.Image = Properties.Resources._20_RoleBaoVeDienAp;
+            node.Transparent = true;
+            node.ImageAlign = MindFusion.Drawing.ImageAlign.Fit;
+
+
+            device.PortCount = 4;
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.05f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.55f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+            device.port.Add(new PointF(0.6875f * device.shapenode.Bounds.Width + device.shapenode.Bounds.X,
+                0.95f * device.shapenode.Bounds.Height + device.shapenode.Bounds.Y));
+
+
+            AllDevice.Add(device);
+
         }
         private void button21_Click(object sender, EventArgs e)
         {
@@ -1199,7 +1470,7 @@ namespace ElectricProject
         private void button3_Click(object sender, EventArgs e)
         {
             //axShockwaveFlash1.Visible = true;
-            //axShockwaveFlash1.Movie = Environment.CurrentDirectory + @"\2D\HeThongBoiTronAI9B.swf";
+            //axShockwaveFlash1.Movie = System.IO.Path.GetDirectoryName(Application.ExecutablePath) + @"\2D\HeThongBoiTronAI9B.swf";
         }
         #endregion
 
@@ -1693,7 +1964,7 @@ namespace ElectricProject
         {
             //lam sach cay bai giag
             treeView_Baigiang.Nodes.Clear();
-            string directory = Environment.CurrentDirectory + @"\Baigiang\Baigiang\";
+            string directory = System.IO.Path.GetDirectoryName(Application.ExecutablePath) + @"\Baigiang\Baigiang\";
             if (!Directory.Exists(directory))
             {
                 Directory.CreateDirectory(directory); 
@@ -1785,7 +2056,7 @@ namespace ElectricProject
                     }
                 }
                 
-                string dir = Environment.CurrentDirectory +@"\Baigiang\Baigiang\"+value;
+                string dir = System.IO.Path.GetDirectoryName(Application.ExecutablePath) +@"\Baigiang\Baigiang\"+value;
                 if (!Directory.Exists(dir))
                 {
                     //neu chua thi tao bai giang moi
@@ -1816,7 +2087,7 @@ namespace ElectricProject
             InvisibleMenu();
             panel_work_baigiang.Visible = true;
             panel_BaiGiang.Visible = true;
-            string outfile = Environment.CurrentDirectory + "/file.pdf";
+            string outfile = System.IO.Path.GetDirectoryName(Application.ExecutablePath) + "/file.pdf";
             string extension = System.IO.Path.GetExtension(file).ToLower();
             if (extension == ".doc" || extension == ".docx")
             {
@@ -2006,7 +2277,7 @@ namespace ElectricProject
                         }
 
                         //copy file vao parent node
-                        string str = Environment.CurrentDirectory + @"\Baigiang\Baigiang\" + treeView_Baigiang.SelectedNode.Name + @"\" + filename + fileExtension;
+                        string str = System.IO.Path.GetDirectoryName(Application.ExecutablePath) + @"\Baigiang\Baigiang\" + treeView_Baigiang.SelectedNode.Name + @"\" + filename + fileExtension;
                         int count = 1;
                         while (File.Exists(str))
                         {
@@ -2301,7 +2572,7 @@ namespace ElectricProject
 
                 string path = dialog.FileName;
                 string foldername = System.IO.Path.GetFileNameWithoutExtension(path);
-                Directory.CreateDirectory(Environment.CurrentDirectory + @"\Baigiang\Baigiang\" + foldername);
+                Directory.CreateDirectory(System.IO.Path.GetDirectoryName(Application.ExecutablePath) + @"\Baigiang\Baigiang\" + foldername);
                 if (Directory.GetFiles(dialog.FileName).Count() ==0)
                 {
                     return;
@@ -2326,7 +2597,7 @@ namespace ElectricProject
                             extension == ".jpeg"||
                             extension == ".elec")
                     {
-                            File.Copy(item, Environment.CurrentDirectory + @"\Baigiang\Baigiang\" + foldername +@"\"+ System.IO.Path.GetFileName(item));
+                            File.Copy(item, System.IO.Path.GetDirectoryName(Application.ExecutablePath) + @"\Baigiang\Baigiang\" + foldername +@"\"+ System.IO.Path.GetFileName(item));
                     }
                     }
                 LoadTreeView();
@@ -2377,5 +2648,18 @@ namespace ElectricProject
         }
 
 
+        /// <summary>
+        /// vẽ dây
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void button24_Click(object sender, EventArgs e)
+        {
+            if (diagramView1.Behavior == Behavior.Modify)
+            {
+                diagramView1.Behavior = Behavior.DrawLinks;
+            }
+            else diagramView1.Behavior = Behavior.Modify;
+        }
     }
 }
