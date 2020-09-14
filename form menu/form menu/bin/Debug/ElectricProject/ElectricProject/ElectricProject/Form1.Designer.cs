@@ -2110,7 +2110,8 @@ namespace ElectricProject
             this.diagram1.LinkRouter = new MindFusion.Diagramming.GridRouter();
             this.diagram1.LinkSegments = 3;
             this.diagram1.LinkShape = MindFusion.Diagramming.LinkShape.Cascading;
-            this.diagram1.LinkTextStyle = MindFusion.Diagramming.LinkTextStyle.OverLongestSegment;
+            this.diagram1.LinkText = "TEXT";
+            this.diagram1.LinkTextStyle = MindFusion.Diagramming.LinkTextStyle.MiddleSegmentRotated;
             this.diagram1.ShowGrid = true;
             this.diagram1.TouchThreshold = 0F;
             this.diagram1.LinkClicked += new System.EventHandler<MindFusion.Diagramming.LinkEventArgs>(this.diagram1_LinkClicked);
@@ -2268,7 +2269,7 @@ namespace ElectricProject
             // btn_ZoomIn
             // 
             this.btn_ZoomIn.Image = global::ElectricProject.Properties.Resources.ZOOM_OUT;
-            this.btn_ZoomIn.Location = new System.Drawing.Point(299, 16);
+            this.btn_ZoomIn.Location = new System.Drawing.Point(300, 17);
             this.btn_ZoomIn.Name = "btn_ZoomIn";
             this.btn_ZoomIn.Size = new System.Drawing.Size(23, 22);
             this.btn_ZoomIn.TabIndex = 11;
@@ -2278,9 +2279,9 @@ namespace ElectricProject
             // 
             // btn_ZoomOut
             // 
-            this.btn_ZoomOut.ForeColor = System.Drawing.Color.Moccasin;
+            this.btn_ZoomOut.ForeColor = System.Drawing.Color.PeachPuff;
             this.btn_ZoomOut.Image = global::ElectricProject.Properties.Resources.ZOOM_IN;
-            this.btn_ZoomOut.Location = new System.Drawing.Point(369, 16);
+            this.btn_ZoomOut.Location = new System.Drawing.Point(370, 17);
             this.btn_ZoomOut.Name = "btn_ZoomOut";
             this.btn_ZoomOut.Size = new System.Drawing.Size(23, 22);
             this.btn_ZoomOut.TabIndex = 10;
@@ -2290,7 +2291,7 @@ namespace ElectricProject
             // 
             // btn_Grid
             // 
-            this.btn_Grid.Location = new System.Drawing.Point(262, 15);
+            this.btn_Grid.Location = new System.Drawing.Point(263, 16);
             this.btn_Grid.Name = "btn_Grid";
             this.btn_Grid.Size = new System.Drawing.Size(23, 22);
             this.btn_Grid.TabIndex = 9;
@@ -2308,7 +2309,7 @@ namespace ElectricProject
             "RED",
             "BLUE",
             "YELLOW"});
-            this.comboBox2.Location = new System.Drawing.Point(208, 14);
+            this.comboBox2.Location = new System.Drawing.Point(209, 15);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(48, 21);
             this.comboBox2.TabIndex = 5;
@@ -2331,7 +2332,7 @@ namespace ElectricProject
             // 
             this.TextboxWidth.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(39)))), ((int)(((byte)(55)))));
             this.TextboxWidth.ForeColor = System.Drawing.Color.White;
-            this.TextboxWidth.Location = new System.Drawing.Point(175, 14);
+            this.TextboxWidth.Location = new System.Drawing.Point(176, 15);
             this.TextboxWidth.Name = "TextboxWidth";
             this.TextboxWidth.Size = new System.Drawing.Size(27, 20);
             this.TextboxWidth.TabIndex = 4;
@@ -2340,7 +2341,7 @@ namespace ElectricProject
             // 
             // button24
             // 
-            this.button24.Location = new System.Drawing.Point(411, 16);
+            this.button24.Location = new System.Drawing.Point(412, 17);
             this.button24.Name = "button24";
             this.button24.Size = new System.Drawing.Size(23, 22);
             this.button24.TabIndex = 15;
@@ -2385,7 +2386,7 @@ namespace ElectricProject
             this.labelZoom.AutoSize = true;
             this.labelZoom.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelZoom.ForeColor = System.Drawing.Color.Silver;
-            this.labelZoom.Location = new System.Drawing.Point(324, 19);
+            this.labelZoom.Location = new System.Drawing.Point(325, 20);
             this.labelZoom.Name = "labelZoom";
             this.labelZoom.Size = new System.Drawing.Size(44, 17);
             this.labelZoom.TabIndex = 12;

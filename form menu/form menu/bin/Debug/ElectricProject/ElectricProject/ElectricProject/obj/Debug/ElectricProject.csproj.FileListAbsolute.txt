@@ -1645,3 +1645,5 @@ D:\nam\Phan-mem-dien-dan-dung-master\Phan-mem-dien-dan-dung-master\form menu\for
 D:\nam\Phan-mem-dien-dan-dung-master\Phan-mem-dien-dan-dung-master\form menu\form menu\bin\Debug\ElectricProject\ElectricProject\ElectricProject\obj\Debug\ElectricProject.csproj.CopyComplete
 D:\nam\Phan-mem-dien-dan-dung-master\Phan-mem-dien-dan-dung-master\form menu\form menu\bin\Debug\ElectricProject\ElectricProject\ElectricProject\obj\Debug\ElectricProject.exe
 D:\nam\Phan-mem-dien-dan-dung-master\Phan-mem-dien-dan-dung-master\form menu\form menu\bin\Debug\ElectricProject\ElectricProject\ElectricProject\obj\Debug\ElectricProject.pdb
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\bin\Debug\ElectricProject\ElectricProject\ElectricProject\bin\Debug\stdole.dll
+E:\Github Clone\Phan-mem-dien-dan-dung\Phan-mem-dien-dan-dung\form menu\form menu\bin\Debug\ElectricProject\ElectricProject\ElectricProject\obj\Debug\ElectricProject.csprojResolveAssemblyReference.cache

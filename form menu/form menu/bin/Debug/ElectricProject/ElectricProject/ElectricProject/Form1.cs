@@ -1332,8 +1332,6 @@ namespace ElectricProject
         bool firstClick = true;
         private void TextboxLine_Click(object sender, EventArgs e)
         {
-
-
             if (firstClick)
             {
                 List<DiagramItem> ListItemDiagram = GetItemSelected();
@@ -1442,12 +1440,17 @@ namespace ElectricProject
 
                         if (ListItemDiagram[0].Pen.Color == Color.Red)
                         {
-                            comboBox2.SelectedItem = 1;
+                            comboBox2.Text = "RED";
+                        }
+                        else if(ListItemDiagram[0].Pen.Color == Color.Blue)
+                        {
+                            comboBox2.Text = "BLUE";
                         }
                         else
                         {
-                            comboBox2.SelectedItem = 2;
+                            comboBox2.Text = "YELLOW";
                         }
+
                     }
                     catch (Exception)
                     {
